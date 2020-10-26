@@ -1,0 +1,2737 @@
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jaguar jaguar[Noun]+[A3sg]+[Pnon]+[Nom] Jaguar[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kedigillerden kedigiller[Noun]+[A3pl]+[Pnon]+DAn[Abl]
+, ,[Punc]
+Orta orta[Noun]+[A3sg]+[Pnon]+[Nom] orta[Adj] Orta[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+Güney güney[Noun]+[A3sg]+[Pnon]+[Nom] Güney[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] güney[Adj]
+Amerika Amerika[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+yaşayan yaşa[Verb]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+postu post[Noun]+[A3sg]+SH[P3sg]+[Nom] pos[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-YDH[Verb+Past]+[A3sg] pos[Adj]-YDH[Verb+Past]+[A3sg] post[Noun]+[A3sg]+[Pnon]+YH[Acc]
+iri iri[Adj]
+benekli benek[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] Benek[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] benekli[Adj]
+memeli meme[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] memeli[Adj]
+türü tür[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] tür[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Noun]+[A3sg]+[Pnon]+YH[Acc]
+( ([Punc]
+Felis Felis[Unknown]
+onca o[Pron]+[Demons]+[A3sg]+[Pnon]+NCA[Equ] o[Pron]+[Pers]+[A3sg]+[Pnon]+NCA[Equ] o[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NCA[Equ] on[Noun]+[A3sg]+[Pnon]+CA[Equ] on[Adj]-[Noun]+[A3sg]+[Pnon]+CA[Equ] on[Adj]-CA[Adj+AsIf] onca[Adv] onca[Adj]
+) )[Punc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jaketatay jaketatay[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Resmî Resmî[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] resmî[Adj]
+ziyaret ziyaret[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+davetlerde davet[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+erkeklerin erkek[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] erkek[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] erkek[Adj]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] erkek[Adj]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+giydikleri giy[Verb]+[Pos]-DHk[Adj+PastPart]+lArH[P3pl] giy[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+lArH[P3pl]+[Nom] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+[Pnon]+YH[Acc] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+SH[P3sg]+[Nom] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+SH[P3pl]+[Nom]
+, ,[Punc]
+arkası arka[Noun]+[A3sg]+SH[P3sg]+[Nom] Arkas[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] arka[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+yırtmaçlı yırtmaç[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] yırtmaçlı[Adj]
+, ,[Punc]
+etekleri etek[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] etek[Noun]+[A3sg]+lArH[P3pl]+[Nom] etek[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] etek[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+uzun uzun[Adj] uz[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] uz[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] Uz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Uzun[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] uzun[Adv]
+ve ve[Conj]
+ön ön[Noun]+[A3sg]+[Pnon]+[Nom] ön[Adj]
+köşeleri köşe[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] köşe[Noun]+[A3sg]+lArH[P3pl]+[Nom] köşe[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] köşe[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+yuvarlak yuvarlak[Adj] yuvarlak[Noun]+[A3sg]+[Pnon]+[Nom]
+kesilmiş kes[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+ceket ceket[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jaketataylı jaketatay[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jaketataylı[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jaketatayı jaketatay[Noun]+[A3sg]+[Pnon]+YH[Acc] jaketatay[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jakoben jakoben[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Fransa Fransa[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+Aziz aziz[Noun]+[A3sg]+[Pnon]+[Nom] aziz[Adj] Aziz[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+Dominicus Dominicus[Unknown]
+tarikatına tarikat[Noun]+[A3sg]+SH[P3sg]+NA[Dat] tarikat[Noun]+[A3sg]+Hn[P2sg]+NA[Dat]
+bağlı bağ[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] bağlı[Adj]
+rahip rahip[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+rahibeler rahibe[Noun]+lAr[A3pl]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Demokrasi demokrasi[Noun]+[A3sg]+[Pnon]+[Nom]
+yanlısı yanlı[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] yan[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-[Noun]+[A3sg]+SH[P3sg]+[Nom] yan[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tepeden tepe[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+inmeci inme[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] in[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jakobenizm jakobenizm[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tepeden tepe[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+inmecilik inme[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] in[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] in[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] inme[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jakuzi jakuzi[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sağlık sağlık[Noun]+[A3sg]+[Pnon]+[Nom] sağ[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] sağ[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] sağ[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] Sağlık[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+havuzu havuz[Noun]+[A3sg]+SH[P3sg]+[Nom] havuz[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jakuzili jakuzi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jakuzili[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jakuzisi jakuzi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jakuzisiz jakuzi[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] jakuzisiz[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jakuzisi jakuzi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jale Jale[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] jale[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Gece geç[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat] gece[Noun]+[A3sg]+[Pnon]+[Nom] gece[Adv]
+yağan yağ[Verb]+[Pos]-YAn[Adj+PresPart] Yağan[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+yapraklara yaprak[Noun]+lAr[A3pl]+[Pnon]+YA[Dat] Yaprak[Noun]+[Prop]+lAr[A3pl]+[Pnon]+YA[Dat]
+konan kon(I)[Verb]+[Pos]-YAn[Adj+PresPart] kon(II)[Verb]+[Pos]-YAn[Adj+PresPart] Kona[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Konan[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ince ince[Adj] in[Noun]+[A3sg]+[Pnon]+CA[Equ] İnce[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+nem nem[Noun]+[A3sg]+[Pnon]+[Nom] ne[Adj]-[Noun]+[A3sg]+Hm[P1sg]+[Nom]
+, ,[Punc]
+çiğ çiğ[Adj]
+, ,[Punc]
+kırağı kırağı[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jaluzi jaluzi[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+İçeriden içeri[Noun]+[A3sg]+[Pnon]+DAn[Abl] içeri[Adj]-[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+görülmeksizin gör[Verb]-Hl[Verb+Pass]+[Pos]-mAksHzHn[Adv+WithoutHavingDoneSo]
+dışarıyı dışarı[Noun]+[A3sg]+[Pnon]+YH[Acc]
+görmeyi gör[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YH[Acc] görme[Noun]+[A3sg]+[Pnon]+YH[Acc]
+sağlayan sağla[Verb]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+şerit şerit[Noun]+[A3sg]+[Pnon]+[Nom]
+biçiminde biçim[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] biçim[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+metal metal[Noun]+[A3sg]+[Pnon]+[Nom]
+veya veya[Conj]
+plastik plastik[Noun]+[A3sg]+[Pnon]+[Nom] plastik[Adj]
+levhalardan levha[Noun]+lAr[A3pl]+[Pnon]+DAn[Abl]
+yapılmış yap[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+tür tür[Noun]+[A3sg]+[Pnon]+[Nom] tür[Adj]
+pencere pencere[Noun]+[A3sg]+[Pnon]+[Nom]
+kapama kapa[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] kapa[Verb]+mA[Neg]+[Imp]+[A2sg] kap[Verb]-YAmA[Verb+Able+Neg]+[Imp]+[A2sg] kapama[Noun]+[A3sg]+[Pnon]+[Nom]
+düzeni düzen[Noun]+[A3sg]+SH[P3sg]+[Nom] düz[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+[A3sg]+[Pnon]+YH[Acc] düz[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+[A3sg]+SH[P3sg]+[Nom] düzen[Noun]+[A3sg]+[Pnon]+YH[Acc] düze[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+, ,[Punc]
+şerit şerit[Noun]+[A3sg]+[Pnon]+[Nom]
+perde perde[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jaluzili jaluzi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jaluzili[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jaluzisi jaluzi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jaluzisiz jaluzi[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] jaluzisiz[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jaluzisi jaluzi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jambon jambon[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tuzlanarak tuzla[Verb]-Hn[Verb+Pass]+[Pos]-YArAk[Adv+ByDoingSo] tuz[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-YArAk[Adv+ByDoingSo]
+, ,[Punc]
+ise i[Verb]+[Pos]+sA[Cond]+[A3sg] is[Noun]+[A3sg]+[Pnon]+YA[Dat]
+tutularak tut[Verb]-Hl[Verb+Pass]+[Pos]-YArAk[Adv+ByDoingSo]
+hazırlanmış hazırla[Verb]-Hn[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+domuz domuz[Noun]+[A3sg]+[Pnon]+[Nom] do[Noun]+[A3sg]+HmHz[P1pl]+[Nom] do[Noun]+[A3sg]+Hm[P1sg]+[Nom]-YHz[Verb+Pres+A1pl]
+budu but[Noun]+[A3sg]+SH[P3sg]+[Nom] but[Noun]+[A3sg]+[Pnon]+YH[Acc]
+veya veya[Conj]
+kolu kol[Noun]+[A3sg]+SH[P3sg]+[Nom] kol[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jambonluk jambon[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jambon[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jambonluk[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jambon jambon[Noun]+[A3sg]+[Pnon]+[Nom]
+yapmaya yap[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] yap[Verb]+mA[Neg]+YA[Opt]+[A3sg] yapma[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat] yapma[Noun]+[A3sg]+[Pnon]+YA[Dat]
+elverişli elverişli[Adj] elver[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]
+domuz domuz[Noun]+[A3sg]+[Pnon]+[Nom] do[Noun]+[A3sg]+HmHz[P1pl]+[Nom] do[Noun]+[A3sg]+Hm[P1sg]+[Nom]-YHz[Verb+Pres+A1pl]
+eti Eti[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] et[Noun]+[A3sg]+[Pnon]+YH[Acc] et[Noun]+[A3sg]+SH[P3sg]+[Nom] Eti[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jandarma jandarma[Noun]+[A3sg]+[Pnon]+[Nom] jandarma[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yurt yurt[Noun]+[A3sg]+[Pnon]+[Nom] Yurt[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+içinde iç[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] iç[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] iç[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] içinde[Adv]
+genel genel[Adj] genel[Verb]+[Pos]+[Imp]+[A2sg]
+güvenliği güvenlik[Noun]+[A3sg]+SH[P3sg]+[Nom] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YH[Acc] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+SH[P3sg]+[Nom] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+YH[Acc] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+SH[P3sg]+[Nom] Güven[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+YH[Acc] Güven[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+SH[P3sg]+[Nom] güvenlik[Noun]+[A3sg]+[Pnon]+YH[Acc]
+ve ve[Conj]
+kamu kamu[Noun]+[A3sg]+[Pnon]+[Nom] Kamu[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+düzenini düzen[Noun]+[A3sg]+SH[P3sg]+NH[Acc] düz[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+[A3sg]+SH[P3sg]+NH[Acc] düz[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+[A3sg]+Hn[P2sg]+NH[Acc] düzen[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+korumakla koru[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+YlA[Ins]
+görevli görev[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] görevli[Adj] görevli[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+yasa yasa[Noun]+[A3sg]+[Pnon]+[Nom] yas[Verb]+[Pos]+YA[Opt]+[A3sg] yasa[Verb]+[Pos]+[Imp]+[A2sg] yas[Noun]+[A3sg]+[Pnon]+YA[Dat] Yasa[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+nizamların nizam[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] Nizam[Noun]+[Prop]+lAr[A3pl]+[Pnon]+NHn[Gen] Nizam[Noun]+[Prop]+lAr[A3pl]+Hn[P2sg]+[Nom] nizam[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+koyduğu koy[Verb]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] koy[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] koy[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom]
+hükümlerin hüküm[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] hüküm[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+yürütülmesini yürü[Verb]-t[Verb+Caus]-Hl[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+NH[Acc]
+ve ve[Conj]
+bunlara bu[Pron]+[Demons]+lAr[A3pl]+[Pnon]+NA[Dat] bun[Noun]+lAr[A3pl]+[Pnon]+YA[Dat]
+dayanan dayan[Verb]+[Pos]-YAn[Adj+PresPart] daya[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+hükûmet hükûmet[Noun]+[A3sg]+[Pnon]+[Nom]
+emirlerinin emir(I)[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] emir(II)[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] emir(II)[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] emir(II)[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] emir(II)[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen] Emir[Noun]+[Prop]+[A3sg]+lArH[P3pl]+NHn[Gen] Emir[Noun]+[Prop]+lAr[A3pl]+SH[P3sg]+NHn[Gen] Emir[Noun]+[Prop]+lAr[A3pl]+SH[P3pl]+NHn[Gen] Emir[Noun]+[Prop]+lAr[A3pl]+Hn[P2sg]+NHn[Gen] emir(I)[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] emir(I)[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] emir(I)[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen]
+yerine yer[Noun]+[A3sg]+SH[P3sg]+NA[Dat] yer[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] yerin[Verb]+[Pos]+YA[Opt]+[A3sg] yerine[Adv]
+getirilmesini getir[Verb]-Hl[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+NH[Acc]
+sağlayan sağla[Verb]+[Pos]-YAn[Adj+PresPart]
+silahlı silah[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] silahlı[Adj] Silahlı[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+askerî askerî[Adj]
+kuvvet kuvvet[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+kuvvette kuvvet[Noun]+[A3sg]+[Pnon]+DA[Loc]
+görevli görev[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] görevli[Adj] görevli[Noun]+[A3sg]+[Pnon]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Açıkgöz açıkgöz[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jandarma jandarma[Noun]+[A3sg]+[Pnon]+[Nom] jandarma[Adj]
+karakolu Karako[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] karakol[Noun]+[A3sg]+[Pnon]+YH[Acc] karakol[Noun]+[A3sg]+SH[P3sg]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Güvenliği güvenlik[Noun]+[A3sg]+[Pnon]+YH[Acc] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YH[Acc] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+SH[P3sg]+[Nom] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+YH[Acc] güven[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+SH[P3sg]+[Nom] Güven[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+YH[Acc] Güven[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+SH[P3sg]+[Nom] güvenlik[Noun]+[A3sg]+SH[P3sg]+[Nom]
+sağlamakla sağla[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+YlA[Ins]
+görevli görev[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] görevli[Adj] görevli[Noun]+[A3sg]+[Pnon]+[Nom]
+jandarmanın jandarma[Noun]+[A3sg]+[Pnon]+NHn[Gen] jandarma[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen] jandarma[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] jandarma[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+görev görev[Noun]+[A3sg]+[Pnon]+[Nom]
+yaptığı yap[Verb]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] yap[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] yap[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom]
+bina bina[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jandarmalık jandarma[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jandarma[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jandarma[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jandarmalık[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jandarmanın jandarma[Noun]+[A3sg]+[Pnon]+NHn[Gen] jandarma[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen] jandarma[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] jandarma[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+görevi görev[Noun]+[A3sg]+SH[P3sg]+[Nom] görev[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Açıkgözlülük açıkgöz[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] açıkgözlülük[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+janjan janjan[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yanardöner yanardöner[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+janjanlı janjan[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] janjanlı[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yanardöner yanardöner[Adj]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+janr janr[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çığır çığır[Noun]+[A3sg]+[Pnon]+[Nom] çığır[Verb]+[Pos]+[Imp]+[A2sg] Çığır[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+tarz tarz[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+cins cins[Noun]+[A3sg]+[Pnon]+[Nom] cins[Adj]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jant jant[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Taşıtlarda taşıt[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+, ,[Punc]
+lastiklerin lastik[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] lastik[Adj]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] lastik[Adj]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] lastik[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+takıldığı takıl[Verb]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] tak[Verb]-Hl[Verb+Pass]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] tak[Verb]-Hl[Verb+Pass]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom] tak[Verb]-Hl[Verb+Pass]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] takıl[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] takıl[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom]
+tekerleğin tekerlek[Noun]+[A3sg]+[Pnon]+NHn[Gen] tekerlek[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] tekerlek[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] tekerlek[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+çember çember[Noun]+[A3sg]+[Pnon]+[Nom]
+biçimindeki biçim[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] biçim[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]-ki[Adj+Rel]
+bölümü bölüm[Noun]+[A3sg]+SH[P3sg]+[Nom] bölüm[Noun]+[A3sg]+[Pnon]+YH[Acc] bölü[Noun]+[A3sg]+Hm[P1sg]+NH[Acc]
+, ,[Punc]
+ispit ispit[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japonya Japonya[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+halkından halk[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] halk[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl]
+veya veya[Conj]
+bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+halkın halk[Noun]+[A3sg]+[Pnon]+NHn[Gen] halk[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+soyundan soy[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] soy[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] soy[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl] soy[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+halkına halk[Noun]+[A3sg]+SH[P3sg]+NA[Dat] halk[Noun]+[A3sg]+Hn[P2sg]+NA[Dat]
+özgü özgü[Adj] Özgü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+armudu armut[Noun]+[A3sg]+SH[P3sg]+[Nom] armut[Noun]+[A3sg]+[Pnon]+YH[Acc] armut[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] armut[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+İki iki[Adj] iki[Noun]+[A3sg]+[Pnon]+[Nom]
+çenekliler çenek[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-[Noun]+lAr[A3pl]+[Pnon]+[Nom] çenekli[Adj]-[Noun]+lAr[A3pl]+[Pnon]+[Nom]
+sınıfından sınıf[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] sınıf[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl]
+olup ol[Verb]+[Pos]-YHp[Adv+AfterDoingSo]
+Japonya Japonya[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+Çin Çin[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+yetişen yetiş[Verb]+[Pos]-YAn[Adj+PresPart] Yetişen[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+bitki bitki[Noun]+[A3sg]+[Pnon]+[Nom]
+türü tür[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] tür[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+bezi bez[Noun]+[A3sg]+SH[P3sg]+[Nom] bez[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] bez[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] bez[Noun]+[A3sg]+[Pnon]+YH[Acc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japonya Japonya[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+üretilen üre[Verb]-t[Verb+Caus]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+bez bez[Noun]+[A3sg]+[Pnon]+[Nom] bez[Adj] bez[Verb]+[Pos]+[Imp]+[A2sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+denizi Deniz[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] de[Noun]+[A3sg]+HnHz[P2pl]+NH[Acc] deniz[Noun]+[A3sg]+[Pnon]+YH[Acc] deniz[Noun]+[A3sg]+SH[P3sg]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Büyük büyük[Adj]
+Okyanus Okyanus[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] okyanus[Noun]+[A3sg]+[Pnon]+[Nom]
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+takımadaları takımada[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] takımada[Noun]+[A3sg]+lArH[P3pl]+[Nom] takımada[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] takımada[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+Kore Kore[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+kıyıları kıyı[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] kıyı[Noun]+[A3sg]+lArH[P3pl]+[Nom] kıyı[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] kıyı[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+ve ve[Conj]
+Sovyet Sovyet[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Sovyet[Noun]+[A3sg]+[Pnon]+[Nom]
+uzak uzak[Adj] uzak[Noun]+[A3sg]+[Pnon]+[Nom]
+doğusu Doğu[Noun]+[A3sg]+SH[P3sg]+[Nom] Doğu[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] doğu[Noun]+[A3sg]+SH[P3sg]+[Nom] doğu[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] Doğu[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+arasında ara[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] ara[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] Aras[Noun]+[Prop]+[A3sg]+SH[P3sg]+NDA[Loc] Aras[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NDA[Loc]
+yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+alan al[Verb]+[Pos]-YAn[Adj+PresPart] âlâ[Adj]+[NoHats]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] ala[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] Ala[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] ala[Noun]+[A3sg]+Hn[P2sg]+[Nom] alan[Noun]+[A3sg]+[Pnon]+[Nom] Alan[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+deniz deniz[Noun]+[A3sg]+[Pnon]+[Nom] de[Noun]+[A3sg]+HnHz[P2pl]+[Nom] de[Noun]+[A3sg]+Hn[P2sg]+[Nom]-YHz[Verb+Pres+A1pl] Deniz[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+elması elmas[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] elma[Noun]+[A3sg]+SH[P3sg]+[Nom] elmas[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] Elmas[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] elmas[Noun]+[A3sg]+[Pnon]+YH[Acc] elmas[Noun]+[A3sg]+SH[P3sg]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japonya Japonya[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+özgü özgü[Adj] Özgü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+bitki bitki[Noun]+[A3sg]+[Pnon]+[Nom]
+türü tür[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] tür[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+gülü gül[Noun]+[A3sg]+SH[P3sg]+[Nom] gül[Noun]+[A3sg]+[Pnon]+YH[Acc] Gül[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kamelya kamelya[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+hurması hurma[Noun]+[A3sg]+SH[P3sg]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Trabzon Trabzon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+hurması hurma[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+kaktüsü kaktüs[Noun]+[A3sg]+SH[P3sg]+[Nom] kaktüs[Noun]+[A3sg]+[Pnon]+YH[Acc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sütleğen sütleğen[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+sarmaşığı sarmaşık[Noun]+[A3sg]+SH[P3sg]+[Nom] Sarmaşık[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] sarmaşık[Noun]+[A3sg]+[Pnon]+YH[Acc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Asmagillerden asmagiller[Noun]+[A3pl]+[Pnon]+DAn[Abl]
+, ,[Punc]
+ana ana[Noun]+[A3sg]+[Pnon]+[Nom] an(II)[Noun]+[A3sg]+[Pnon]+YA[Dat] an(I)[Noun]+[A3sg]+[Pnon]+YA[Dat] an[Verb]+[Pos]+YA[Opt]+[A3sg] ana[Adj] ana[Interj]
+yurdu yurt[Noun]+[A3sg]+SH[P3sg]+[Nom] yu[Verb]+[Pos]+Hr[Aor]+[A3sg]+YDH[Past] yu[Verb]+[Pos]+Hr[Aor]+YDH[Past]+[A3sg] yurdu[Noun]+[A3sg]+[Pnon]+[Nom] yurt[Noun]+[A3sg]+[Pnon]+YH[Acc]
+Çin Çin[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+Japonya Japonya[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+sülüklerinin sülük[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] Sü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] Sü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] Sü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] Sü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen] sülükler[Noun]+[A3sg]+SH[P3sg]+NHn[Gen] sülükler[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen] sülük[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] sülük[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] sülük[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen]
+ucu uç[Noun]+[A3sg]+[Pnon]+YH[Acc] uç[Noun]+[A3sg]+SH[P3sg]+[Nom] Uç[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+duvarlara duvar[Noun]+lAr[A3pl]+[Pnon]+YA[Dat]
+tutunmak tutun[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+için için[Postp]+[PCNom] için[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+YHn[A2pl] iç[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] iç[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+genellikle genellikle[Adv] genellik[Noun]+[A3sg]+[Pnon]+YlA[Ins] genel[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YlA[Ins]
+daire daire[Noun]+[A3sg]+[Pnon]+[Nom] dair[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat]
+biçiminde biçim[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] biçim[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+genişlemiş genişle[Verb]+[Pos]+mHş[Narr]+[A3sg]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+sarılıcı sar[Verb]-Hl[Verb+Pass]+[Pos]-YHcH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] sarıl[Verb]+[Pos]-YHcH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] Sarılı[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+süs süs[Verb]+[Pos]+[Imp]+[A2sg] süs[Noun]+[A3sg]+[Pnon]+[Nom]
+bitkisi bitki[Noun]+[A3sg]+SH[P3sg]+[Nom]
+( ([Punc]
+Ampelopsis Ampelopsis[Unknown]
+japonica japonica[Unknown]
+) )[Punc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japonca Japonca[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[A3sg]+[Pnon]+CA[Equ] Japonca[Noun]+[A3sg]+[Pnon]+[Nom] Japonca[Adj] Japon[Adj]-[Noun]+[A3sg]+[Pnon]+CA[Equ] Japon[Adj]-CA[Adj+AsIf]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+dili dil[Noun]+[A3sg]+SH[P3sg]+[Nom] Dil[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] dil[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+dille dil[Noun]+[A3sg]+[Pnon]+YlA[Ins]
+yazılmış yaz[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+japone japone[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Uzun uzun[Adj] uz[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] uz[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] Uz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Uzun[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] uzun[Adv]
+kollu kol[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] kollu[Adj]
+kadın kadın[Noun]+[A3sg]+[Pnon]+[Nom] Kad[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Kadın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] kadın[Adj] kadı[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+giysisi giysi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+için için[Postp]+[PCNom] için[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+YHn[A2pl] iç[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] iç[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+omuz omuz[Noun]+[A3sg]+[Pnon]+[Nom] o[Adj]-[Noun]+[A3sg]+HmHz[P1pl]+[Nom] o[Adj]-[Noun]+[A3sg]+Hm[P1sg]+[Nom]-YHz[Verb+Pres+A1pl] om[Noun]+[A3sg]+[Pnon]+[Nom]-YHz[Verb+Pres+A1pl]
+kesimi kesim[Noun]+[A3sg]+SH[P3sg]+[Nom] kes[Noun]+[A3sg]+Hm[P1sg]+NH[Acc] Kesim[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] kesim[Noun]+[A3sg]+[Pnon]+YH[Acc]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+, ,[Punc]
+bol bol[Adj] bol[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+geniş geniş[Adj]
+( ([Punc]
+kadın kadın[Noun]+[A3sg]+[Pnon]+[Nom] Kad[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Kadın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] kadın[Adj] kadı[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+giysisi giysi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+) )[Punc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kolsuz kol[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] kolsuz[Adj]
+( ([Punc]
+kadın kadın[Noun]+[A3sg]+[Pnon]+[Nom] Kad[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Kadın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] kadın[Adj] kadı[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+giysisi giysi[Noun]+[A3sg]+SH[P3sg]+[Nom]
+) )[Punc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jargon jargon[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Dar dar[Adj] dar[Adv] dar[Noun]+[A3sg]+[Pnon]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+çevreye çevre[Noun]+[A3sg]+[Pnon]+YA[Dat]
+özgü özgü[Adj] Özgü[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+dil dil[Noun]+[A3sg]+[Pnon]+[Nom] Dil[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] dil[Verb]+[Pos]+[Imp]+[A2sg]
+, ,[Punc]
+argo argo[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jarse jarse[Adj] jarse[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Esnek esnek[Adj]
+dokunmuş dokun[Verb]+[Pos]+mHş[Narr]+[A3sg] doku[Verb]-Hn[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg] dok[Noun]+[A3sg]+[Pnon]+NHn[Gen]-YmHş[Verb+Narr]+[A3sg] dok[Noun]+[A3sg]+Hn[P2sg]+[Nom]-YmHş[Verb+Narr]+[A3sg] doku[Noun]+[A3sg]+Hn[P2sg]+[Nom]-YmHş[Verb+Narr]+[A3sg]
+ipekli ipek[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ipekli[Adj] ipek[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] İpek[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]
+veya veya[Conj]
+yünlü yün[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] yün[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] yünlü[Adj] yünlü[Noun]+[A3sg]+[Pnon]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+kumaş kumaş[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+kumaştan kumaş[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+yapılan yap[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] yapı[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] yapılan[Verb]+[Pos]+[Imp]+[A2sg]
+veya veya[Conj]
+esnek esnek[Adj]
+örülmüş ör[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+( ([Punc]
+giyecek giy[Verb]+[Pos]+YAcAk[Fut]+[A3sg] giy[Verb]+[Pos]-YAcAk[Adj+FutPart]+[Pnon] giy[Verb]+[Pos]-YAcAk[Noun+FutPart]+[A3sg]+[Pnon]+[Nom] giyecek[Noun]+[A3sg]+[Pnon]+[Nom]
+) )[Punc]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jartiyer jartiyer[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çorapları çorap[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] çorap[Noun]+[A3sg]+lArH[P3pl]+[Nom] çorap[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] çorap[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+dizin dizin[Noun]+[A3sg]+[Pnon]+[Nom] diz[Verb]+[Pos]+[Imp]+YHn[A2pl] diz[Noun]+[A3sg]+[Pnon]+NHn[Gen] diz[Noun]+[A3sg]+Hn[P2sg]+[Nom] dizi[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+altında alt[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] alt[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] alt[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] alt[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] altı[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] altın[Noun]+[A3sg]+[Pnon]+DA[Loc] altın[Adj]-[Noun]+[A3sg]+[Pnon]+DA[Loc] altı[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+veya veya[Conj]
+üstünde üst[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] üst[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] üst[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] üst[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] üstün[Noun]+[A3sg]+[Pnon]+DA[Loc] üstün[Adj]-[Noun]+[A3sg]+[Pnon]+DA[Loc]
+tutmaya tut[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] tut[Verb]+mA[Neg]+YA[Opt]+[A3sg] tutma[Noun]+[A3sg]+[Pnon]+YA[Dat]
+yarayan yara[Verb]+[Pos]-YAn[Adj+PresPart]
+lastikli lastik[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] lastik[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] lastikli[Adj]
+bağ. bağ.[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+je je[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Türk Türk[Noun]+[A3sg]+[Pnon]+[Nom] Türk[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+alfabesinin alfabe[Noun]+[A3sg]+SH[P3sg]+NHn[Gen]
+on on[Adj] o[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] on[Noun]+[A3sg]+[Pnon]+[Nom] on[Verb]+[Pos]+[Imp]+[A2sg]
+üçüncü üçüncü[Adj]
+harfinin harf[Noun]+[A3sg]+SH[P3sg]+NHn[Gen] harf[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+adı ad(I)[Noun]+[A3sg]+SH[P3sg]+[Nom] ad(I)[Noun]+[A3sg]+[Pnon]+YH[Acc]
+, ,[Punc]
+okunuşu oku[Verb]-Hn[Verb+Pass]+[Pos]-YHş[Noun+Inf3]+[A3sg]+SH[P3sg]+[Nom] oku[Verb]-Hn[Verb+Pass]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+YH[Acc] okunuş[Noun]+[A3sg]+[Pnon]+YH[Acc] okunuş[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jel jel[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tedavi tedavi[Noun]+[A3sg]+[Pnon]+[Nom]
+amacıyla amaç[Noun]+[A3sg]+SH[P3sg]+YlA[Ins] Amaç[Noun]+[Prop]+[A3sg]+SH[P3sg]+YlA[Ins]
+kullanılan kullan[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] kul[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+jöle jöle[Noun]+[A3sg]+[Pnon]+[Nom]
+yapısında yapı[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+krem krem[Noun]+[A3sg]+[Pnon]+[Nom] krem[Adj]
+türü tür[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] tür[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] tür[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jelatin jelatin[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Genellikle genellikle[Adv] genellik[Noun]+[A3sg]+[Pnon]+YlA[Ins] genel[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YlA[Ins]
+hekimlik hekim[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] hekim[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] Hekim[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] hekimlik[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+fotoğrafçılıkta fotoğrafçı[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+DA[Loc] fotoğrafçılık[Noun]+[A3sg]+[Pnon]+DA[Loc] fotoğrafçı[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+DA[Loc] fotoğraf[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+DA[Loc] fotoğraf[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+DA[Loc]
+kullanılan kullan[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] kul[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+hayvanların hayvan[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] hayvan[Adj]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] hayvan[Adj]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] hayvan[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+kemik kemik[Noun]+[A3sg]+[Pnon]+[Nom] kemik[Adj]
+, ,[Punc]
+kıkırdak kıkırdak[Noun]+[A3sg]+[Pnon]+[Nom]
+vb. vb.[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom]
+dokularından doku[Noun]+lAr[A3pl]+SH[P3sg]+NDAn[Abl] doku[Noun]+[A3sg]+lArH[P3pl]+NDAn[Abl] doku[Noun]+lAr[A3pl]+SH[P3pl]+NDAn[Abl] doku[Noun]+lAr[A3pl]+Hn[P2sg]+NDAn[Abl]
+veya veya[Conj]
+bitkisel bitkisel[Adj]
+yosunlardan Yosun[Noun]+[Prop]+lAr[A3pl]+[Pnon]+DAn[Abl] yosun[Noun]+lAr[A3pl]+[Pnon]+DAn[Abl]
+elde el[Noun]+[A3sg]+[Pnon]+DA[Loc] elde[Noun]+[A3sg]+[Pnon]+[Nom]
+edilen et[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] edi[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] Edi[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg]
+saydam saydam[Adj] Saydam[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] saydam[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+renksiz renk[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] renksiz[Adj]
+, ,[Punc]
+kokusuz koku[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] kokusuz[Adj]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+madde madde[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ambalaj ambalaj[Noun]+[A3sg]+[Pnon]+[Nom]
+için için[Postp]+[PCNom] için[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+YHn[A2pl] iç[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] iç[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+kullanılan kullan[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] kul[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+ince ince[Adj] in[Noun]+[A3sg]+[Pnon]+CA[Equ] İnce[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+parlak parlak[Adj] Parlak[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+madde madde[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jelatinleme jelatinle[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] jelatinle[Verb]+mA[Neg]+[Imp]+[A2sg]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jelatinlemek jelatinle[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+işi iş[Noun]+[A3sg]+SH[P3sg]+[Nom] iş[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jelatinlemek jelatinle[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+yeri yer[Noun]+[A3sg]+SH[P3sg]+[Nom] yer[Noun]+[A3sg]+[Pnon]+YH[Acc]
+veya veya[Conj]
+şeyi şey[Noun]+[A3sg]+SH[P3sg]+[Nom] şey[Noun]+[A3sg]+[Pnon]+YH[Acc]
+jelatin jelatin[Noun]+[A3sg]+[Pnon]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+kaplamak kapla[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jelatinli jelatin[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jelatinli[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jelatinden jelatin[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+yapılmış yap[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+veya veya[Conj]
+jelatinle jelatin[Noun]+[A3sg]+[Pnon]+YlA[Ins] jelatinle[Verb]+[Pos]+[Imp]+[A2sg]
+kaplanmış kap(II)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+mHş[Narr]+[A3sg] kâp[Noun]+[NoHats]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+mHş[Narr]+[A3sg] kap(I)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+mHş[Narr]+[A3sg] kapla[Verb]-Hn[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg] kaplan[Noun]+[A3sg]+[Pnon]+[Nom]-YmHş[Verb+Narr]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jelatinsiz jelatin[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] jelatinsiz[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jelatinle jelatin[Noun]+[A3sg]+[Pnon]+YlA[Ins] jelatinle[Verb]+[Pos]+[Imp]+[A2sg]
+kaplanmamış kapla[Verb]-Hn[Verb+Pass]+mA[Neg]+mHş[Narr]+[A3sg] kâp[Noun]+[NoHats]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]+mHş[Narr]+[A3sg] kap(I)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]+mHş[Narr]+[A3sg] kap(II)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]+mHş[Narr]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeloz jeloz[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Agaragar agaragar[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jen jen[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Gen gen[Noun]+[A3sg]+[Pnon]+[Nom] gen[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jenerasyon jenerasyon[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kuşak kuşak[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+nesil nesil[Noun]+[A3sg]+[Pnon]+[Nom] Nesil[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeneratör jeneratör[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Üreteç üreteç[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jenerik jenerik[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Tanıtma tanı[Verb]-t[Verb+Caus]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] tanı[Verb]-t[Verb+Caus]+mA[Neg]+[Imp]+[A2sg] tanıtma[Noun]+[A3sg]+[Pnon]+[Nom] tanıt[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] tanıt[Verb]+mA[Neg]+[Imp]+[A2sg]
+yazısı yazı[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jenosit jenosit[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Soykırım soykırım[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeodezi jeodezi[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+ölçümü Ölçüm[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] ölçü[Noun]+[A3sg]+Hm[P1sg]+NH[Acc] ölçüm[Noun]+[A3sg]+[Pnon]+YH[Acc] ölçüm[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeodinamik jeodinamik[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Volkan volkan[Noun]+[A3sg]+[Pnon]+[Nom] Volkan[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+deprem deprem[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+aşınma aşın[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] aşın[Verb]+mA[Neg]+[Imp]+[A2sg]
+vb. vb.[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom]
+etkenlerle etken[Noun]+lAr[A3pl]+[Pnon]+YlA[Ins] etken[Adj]-[Noun]+lAr[A3pl]+[Pnon]+YlA[Ins]
+yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+kabuğunda kabuk[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] kabuk[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+oluşan oluş[Verb]+[Pos]-YAn[Adj+PresPart]
+değişikliklerin değişik[Adj]-lHk[Noun+Ness]+lAr[A3pl]+[Pnon]+NHn[Gen] değişik[Adj]-lHk[Noun+Ness]+lAr[A3pl]+Hn[P2sg]+[Nom] değişiklik[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] değişiklik[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] değişik[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+[Pnon]+NHn[Gen] değişik[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+Hn[P2sg]+[Nom] değişik[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] değişik[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+incelenmesi incele[Verb]-Hn[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeofizik jeofizik[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+yuvarlağını yuvarlak[Noun]+[A3sg]+SH[P3sg]+NH[Acc] yuvarlak[Noun]+[A3sg]+Hn[P2sg]+NH[Acc] yuvarlak[Adj]-[Noun]+[A3sg]+SH[P3sg]+NH[Acc] yuvarlak[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+ve ve[Conj]
+atmosferi atmosfer[Noun]+[A3sg]+[Pnon]+YH[Acc] atmosfer[Noun]+[A3sg]+SH[P3sg]+[Nom]
+etkileyen etkile[Verb]+[Pos]-YAn[Adj+PresPart]
+doğal doğal[Adj]
+fiziksel fiziksel[Adj]
+olayların olay[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] olay[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+incelenmesi incele[Verb]-Hn[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeofizikçi jeofizikçi[Noun]+[A3sg]+[Pnon]+[Nom] jeofizik[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jeofizik jeofizik[Noun]+[A3sg]+[Pnon]+[Nom]
+uzmanı uzman[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] uzman[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Noun]+[A3sg]+[Pnon]+YH[Acc] Uzman[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeokimya jeokimya[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+kabuğunu kabuk[Noun]+[A3sg]+SH[P3sg]+NH[Acc] kabuk[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+oluşturan oluş[Verb]-DHr[Verb+Caus]+[Pos]-YAn[Adj+PresPart]
+kimyasal kimyasal[Adj]
+ögelerin Öge[Noun]+[Prop]+lAr[A3pl]+[Pnon]+NHn[Gen] öge[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] öge[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] Öge[Noun]+[Prop]+lAr[A3pl]+Hn[P2sg]+[Nom]
+tümü tüm[Pron]+[Quant]+[A3pl]+SH[P3pl]+[Nom] tüm[Noun]+[A3sg]+[Pnon]+YH[Acc] tüm[Noun]+[A3sg]+SH[P3sg]+[Nom] tüm[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] tüm[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeokimyacı jeokimyacı[Noun]+[A3sg]+[Pnon]+[Nom] jeokimya[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jeokimya jeokimya[Noun]+[A3sg]+[Pnon]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+uğraşan uğraş[Verb]+[Pos]-YAn[Adj+PresPart]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeolog jeolog[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+bilimci bilim[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] bilimci[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeoloji jeoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+bilimi bilim[Noun]+[A3sg]+SH[P3sg]+[Nom] bili[Noun]+[A3sg]+Hm[P1sg]+NH[Acc] bilim[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeolojik jeolojik[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+bilimsel bilimsel[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeomorfolog jeomorfolog[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jeomorfoloji jeomorfoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+uzmanı uzman[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] uzman[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Noun]+[A3sg]+[Pnon]+YH[Acc] Uzman[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeomorfoloji jeomorfoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yeryüzü yeryüz[Noun]+[A3sg]+SH[P3sg]+[Nom] yeryüz[Noun]+SH[A3sg]+[Pnon]+[Nom]
+engebelerini engebe[Noun]+lAr[A3pl]+SH[P3sg]+NH[Acc] engebe[Noun]+[A3sg]+lArH[P3pl]+NH[Acc] engebe[Noun]+lAr[A3pl]+SH[P3pl]+NH[Acc] engebe[Noun]+lAr[A3pl]+Hn[P2sg]+NH[Acc]
+ve ve[Conj]
+aşınma aşın[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] aşın[Verb]+mA[Neg]+[Imp]+[A2sg]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+ilgili ilgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Noun]+[A3sg]+[Pnon]+[Nom] İlgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Adj]
+gelişimleri gelişim[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] gelişim[Noun]+[A3sg]+lArH[P3pl]+[Nom] gelişim[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] gelişim[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+inceleyen incele[Verb]+[Pos]-YAn[Adj+PresPart]
+bilim bilim[Noun]+[A3sg]+[Pnon]+[Nom] bili[Noun]+[A3sg]+Hm[P1sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeomorfolojik jeomorfolojik[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jeomorfoloji jeomorfoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+ilgili ilgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Noun]+[A3sg]+[Pnon]+[Nom] İlgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeopolitik jeopolitik[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Coğrafya coğrafya[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+ekonomi ekonomi[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+nüfus nüfus[Noun]+[A3sg]+[Pnon]+[Nom]
+vb. vb.[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom]
+nin nin[Unknown]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+devletin devlet[Noun]+[A3sg]+[Pnon]+NHn[Gen] Devlet[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] devlet[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+politikası politika[Noun]+[A3sg]+SH[P3sg]+[Nom]
+üzerindeki Üzer[Noun]+[Prop]+[A3sg]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] üzeri[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]-ki[Adj+Rel] Üzer[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NDA[Loc]-ki[Adj+Rel]
+etkisi etki[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+devlette devlet[Noun]+[A3sg]+[Pnon]+DA[Loc]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+bölgede bölge[Noun]+[A3sg]+[Pnon]+DA[Loc]
+uygulanan uygula[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+politikayla politika[Noun]+[A3sg]+[Pnon]+YlA[Ins]
+o o[Det] o[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] o[Pron]+[Pers]+[A3sg]+[Pnon]+[Nom] O[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom] O[Noun]+[Acro]+[A3sg]+[Pnon]+[Nom] o[Adj] o[Interj]
+yerin yerin[Verb]+[Pos]+[Imp]+[A2sg] yer[Noun]+[A3sg]+[Pnon]+NHn[Gen] yer[Noun]+[A3sg]+Hn[P2sg]+[Nom] yer[Verb]+[Pos]+[Imp]+YHn[A2pl]
+coğrafyası coğrafya[Noun]+[A3sg]+SH[P3sg]+[Nom]
+arasındaki ara[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] ara[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] Aras[Noun]+[Prop]+[A3sg]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] Aras[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NDA[Loc]-ki[Adj+Rel]
+ilişki ilişki[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+devletin devlet[Noun]+[A3sg]+[Pnon]+NHn[Gen] Devlet[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] devlet[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+saldırgan saldırgan[Noun]+[A3sg]+[Pnon]+[Nom] saldırgan[Adj]
+nitelikteki nitelik[Noun]+[A3sg]+[Pnon]+DA[Loc]-ki[Adj+Rel]
+genişlemesini genişle[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+NH[Acc]
+, ,[Punc]
+ekonomik ekonomik[Adj]
+ve ve[Conj]
+siyasi siyasi[Adj] siyasi[Noun]+[A3sg]+[Pnon]+[Nom]
+coğrafya coğrafya[Noun]+[A3sg]+[Pnon]+[Nom]
+açısından açı[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl]
+haklı hâk[Noun]+[NoHats]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] hak(I)[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] Hak[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] hak[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] haklı[Adj]
+kılmaya kıl[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] kıl[Verb]+mA[Neg]+YA[Opt]+[A3sg]
+yönelik yönelik[Postp]+[PCDat] yönelik[Postp]+[PCDat]+[A3sg]+[Pnon]+[Nom] yönelik[Adj]
+siyasi siyasi[Adj] siyasi[Noun]+[A3sg]+[Pnon]+[Nom]
+öğreti öğreti[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeosantrik jeosantrik[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+özekçil özekçil[Unknown]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeosantrizm jeosantrizm[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+özekçilik Özek[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] özek[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] özek[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] Özek[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeosenklinal jeosenklinal[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+kabuğunun kabuk[Noun]+[A3sg]+SH[P3sg]+NHn[Gen] kabuk[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+uzun uzun[Adj] uz[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] uz[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] Uz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Uzun[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] uzun[Adv]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+süre süre[Noun]+[A3sg]+[Pnon]+[Nom] sür[Verb]+[Pos]+YA[Opt]+[A3sg]
+çöken çök[Verb]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+buna bu[Pron]+[Demons]+[A3sg]+[Pnon]+NA[Dat] bu[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] buna[Verb]+[Pos]+[Imp]+[A2sg] bun[Noun]+[A3sg]+[Pnon]+YA[Dat] bun[Verb]+[Pos]+YA[Opt]+[A3sg] buna[Adv]
+bağlı bağ[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] bağlı[Adj]
+olarak ol[Verb]+[Pos]-YArAk[Adv+ByDoingSo]
+kat kat[Noun]+[A3sg]+[Pnon]+[Nom] kat[Verb]+[Pos]+[Imp]+[A2sg]
+kat kat[Noun]+[A3sg]+[Pnon]+[Nom] kat[Verb]+[Pos]+[Imp]+[A2sg]
+kalın kalın[Adj] Ka[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] kal(I)[Noun]+[A3sg]+[Pnon]+NHn[Gen] kal(I)[Noun]+[A3sg]+Hn[P2sg]+[Nom] kal[Verb]+[Pos]+[Imp]+YHn[A2pl] kal[Verb]-Hn[Verb+Pass]+[Pos]+[Imp]+[A2sg] kalın[Noun]+[A3sg]+[Pnon]+[Nom]
+tortullarla tortul[Adj]-[Noun]+lAr[A3pl]+[Pnon]+YlA[Ins]
+dolmuş dolmuş[Noun]+[A3sg]+[Pnon]+[Nom] dol[Verb]+[Pos]+mHş[Narr]+[A3sg] dolmuş[Adj]
+bulunan bulun[Verb]+[Pos]-YAn[Adj+PresPart] bul[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+bölümü bölüm[Noun]+[A3sg]+SH[P3sg]+[Nom] bölüm[Noun]+[A3sg]+[Pnon]+YH[Acc] bölü[Noun]+[A3sg]+Hm[P1sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeosismik jeosismik[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+patlama patla[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] patla[Verb]+mA[Neg]+[Imp]+[A2sg]
+sonucu sonuç[Noun]+[A3sg]+SH[P3sg]+[Nom] Sonuç[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] sonuç[Noun]+[A3sg]+[Pnon]+YH[Acc]
+, ,[Punc]
+derinlemesine derinlemesine[Adv]
+yayılan yay[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+dalgaların dalga[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] dalga[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+incelenmesi incele[Verb]-Hn[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+[Nom]
+yoluyla yol[Noun]+[A3sg]+SH[P3sg]+YlA[Ins] yoluyla[Adv]
+yeryüzü yeryüz[Noun]+[A3sg]+SH[P3sg]+[Nom] yeryüz[Noun]+SH[A3sg]+[Pnon]+[Nom]
+katmanlarındaki katman[Noun]+lAr[A3pl]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] katman[Noun]+[A3sg]+lArH[P3pl]+NDA[Loc]-ki[Adj+Rel] katman[Noun]+lAr[A3pl]+SH[P3pl]+NDA[Loc]-ki[Adj+Rel] katman[Noun]+lAr[A3pl]+Hn[P2sg]+NDA[Loc]-ki[Adj+Rel]
+madenleri Maden[Noun]+[Prop]+lAr[A3pl]+[Pnon]+YH[Acc] maden[Noun]+[A3sg]+lArH[P3pl]+[Nom] maden[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] maden[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] maden[Noun]+lAr[A3pl]+SH[P3pl]+[Nom] maden[Adj]-[Noun]+[A3sg]+lArH[P3pl]+[Nom] maden[Adj]-[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] maden[Adj]-[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] maden[Adj]-[Noun]+lAr[A3pl]+SH[P3pl]+[Nom] Maden[Noun]+[Prop]+[A3sg]+lArH[P3pl]+[Nom] Maden[Noun]+[Prop]+lAr[A3pl]+SH[P3sg]+[Nom] Maden[Noun]+[Prop]+lAr[A3pl]+SH[P3pl]+[Nom]
+araştırma araştır[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] araştırma[Noun]+[A3sg]+[Pnon]+[Nom] araştır[Verb]+mA[Neg]+[Imp]+[A2sg]
+yöntemi yöntem[Noun]+[A3sg]+SH[P3sg]+[Nom] Yönte[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NH[Acc] yöntem[Noun]+[A3sg]+[Pnon]+YH[Acc] Yöntem[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeotermal jeotermal[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sıcaklığı sıcak[Adj]-lHk[Noun+Ness]+[A3sg]+SH[P3sg]+[Nom] sıcak[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YH[Acc] sıcaklık[Noun]+[A3sg]+[Pnon]+YH[Acc] sıcaklık[Noun]+[A3sg]+SH[P3sg]+[Nom] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YH[Acc] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+SH[P3sg]+[Nom] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+YH[Acc] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+, ,[Punc]
+yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+içinde iç[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] iç[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] iç[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] içinde[Adv]
+kalmaya kal[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] kal[Verb]+mA[Neg]+YA[Opt]+[A3sg] kalma[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat]
+veya veya[Conj]
+buradan bura[Noun]+[A3sg]+[Pnon]+DAn[Abl] bura[Pron]+[Demons]+[A3sg]+[Pnon]+DAn[Abl] buradan[Adv]
+geçmeye geç[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] geç[Verb]+mA[Neg]+YA[Opt]+[A3sg] geçme[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat] geçme[Noun]+[A3sg]+[Pnon]+YA[Dat]
+bağlı bağ[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] bağlı[Adj]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+ısı ısı[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeotermal jeotermal[Adj]
+enerji enerji[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+altından alt[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] alt[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] alt[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl] alt[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl] altı[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl] altın[Noun]+[A3sg]+[Pnon]+DAn[Abl] altın[Adj]-[Noun]+[A3sg]+[Pnon]+DAn[Abl] altı[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl]
+çıkan çık[Verb]+[Pos]-YAn[Adj+PresPart] çıkan[Noun]+[A3sg]+[Pnon]+[Nom]
+sıcak sıcak[Adj] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]
+su su[Noun]+[A3sg]+[Pnon]+[Nom] Su[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+veya veya[Conj]
+sıcak sıcak[Adj] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]
+su su[Noun]+[A3sg]+[Pnon]+[Nom] Su[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+buharından buhar[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] buhar[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl]
+elde el[Noun]+[A3sg]+[Pnon]+DA[Loc] elde[Noun]+[A3sg]+[Pnon]+[Nom]
+edilen et[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] edi[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] Edi[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg]
+enerji enerji[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeotermi jeotermi[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yerkürede yerküre[Noun]+[A3sg]+[Pnon]+DA[Loc]
+oluşan oluş[Verb]+[Pos]-YAn[Adj+PresPart]
+ısı ısı[Noun]+[A3sg]+[Pnon]+[Nom]
+olaylarının olay[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] olay[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] olay[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] olay[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen]
+incelenmesi incele[Verb]-Hn[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yerküreyle yerküre[Noun]+[A3sg]+[Pnon]+YlA[Ins]
+ilgili ilgili[Noun]+[A3sg]+[Pnon]+[Nom] ilgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] İlgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Adj]
+ısı ısı[Noun]+[A3sg]+[Pnon]+[Nom]
+şartları şart[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] şart[Noun]+[A3sg]+lArH[P3pl]+[Nom] şart[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] şart[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+, ,[Punc]
+sıcaklıkların sıcaklık[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] sıcak[Adj]-lHk[Noun+Ness]+lAr[A3pl]+[Pnon]+NHn[Gen] sıcak[Adj]-lHk[Noun+Ness]+lAr[A3pl]+Hn[P2sg]+[Nom] sıcaklık[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+[Pnon]+NHn[Gen] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+Hn[P2sg]+[Nom] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] sıcak[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+dağılımı dağılım[Noun]+[A3sg]+SH[P3sg]+[Nom] dağılım[Noun]+[A3sg]+[Pnon]+YH[Acc]
+, ,[Punc]
+ısı ısı[Noun]+[A3sg]+[Pnon]+[Nom]
+alışverişi alışveriş[Noun]+[A3sg]+SH[P3sg]+[Nom] alışveriş[Noun]+[A3sg]+[Pnon]+YH[Acc]
+vb. vb.[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom]
+ni ni[Unknown]
+inceleyen incele[Verb]+[Pos]-YAn[Adj+PresPart]
+jeofizik jeofizik[Noun]+[A3sg]+[Pnon]+[Nom]
+dalı dal[Noun]+[A3sg]+SH[P3sg]+[Nom] dal[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] dal[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] Dal[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] dal[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeotermik jeotermik[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jeotermi jeotermi[Noun]+[A3sg]+[Pnon]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+ilgili ilgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Noun]+[A3sg]+[Pnon]+[Nom] İlgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeotropizma jeotropizma[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yere yer[Noun]+[A3sg]+[Pnon]+YA[Dat] yer[Verb]+[Pos]+YA[Opt]+[A3sg]
+yönelim yönelim[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jersey jersey[Noun]+[A3sg]+[Pnon]+[Nom] Jersey[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Sarı sarı[Adj] Sar[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] sarı[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+kahverengiden kahverengi[Noun]+[A3sg]+[Pnon]+DAn[Abl] kahverengi[Adj]-[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+esmere esmer[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat] esmer[Noun]+[A3sg]+[Pnon]+YA[Dat]
+kadar kadar[Postp]+[PCDat] kadar[Postp]+[PCDat]+[A3sg]+[Pnon]+[Nom] kadar[Noun]+[A3sg]+[Pnon]+[Nom] kadar[Adv] kadar[Adj]
+değişen değiş[Verb]+[Pos]-YAn[Adj+PresPart]
+renkte renk[Noun]+[A3sg]+[Pnon]+DA[Loc]
+, ,[Punc]
+et et[Noun]+[A3sg]+[Pnon]+[Nom] et[Verb]+[Pos]+[Imp]+[A2sg]
+tutmayan tut[Verb]+mA[Neg]-YAn[Adj+PresPart]
+, ,[Punc]
+kemikleri kemik[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] kemik[Adj]-[Noun]+[A3sg]+lArH[P3pl]+[Nom] kemik[Adj]-[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] kemik[Adj]-[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] kemik[Adj]-[Noun]+lAr[A3pl]+SH[P3pl]+[Nom] kemik[Noun]+[A3sg]+lArH[P3pl]+[Nom] kemik[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] kemik[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+belirgin belirgin[Adj] belirgi[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+kültür kültür[Noun]+[A3sg]+[Pnon]+[Nom]
+ırkı ırk[Noun]+[A3sg]+SH[P3sg]+[Nom] ırk[Noun]+[A3sg]+[Pnon]+YH[Acc]
+sığırı sığır[Noun]+[A3sg]+SH[P3sg]+[Nom] sığır[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jest jest[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Herhangi herhangi[Adj]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+şeyi şey[Noun]+[A3sg]+[Pnon]+YH[Acc] şey[Noun]+[A3sg]+SH[P3sg]+[Nom]
+açıklamak açıkla[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+için için[Postp]+[PCNom] için[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+YHn[A2pl] iç[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] iç[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+genellikle genellikle[Adv] genellik[Noun]+[A3sg]+[Pnon]+YlA[Ins] genel[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YlA[Ins]
+el el[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+kol kol[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+baş baş[Noun]+[A3sg]+[Pnon]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+yapılan yap[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] yapı[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] yapılan[Verb]+[Pos]+[Imp]+[A2sg]
+içgüdüsel içgüdüsel[Adj]
+veya veya[Conj]
+iradeli irade[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] iradeli[Adj]
+hareket hareket[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Beklenmedik bekle[Verb]-Hn[Verb+Pass]+mA[Neg]+DH[Past]+k[A1pl] bek[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]+DH[Past]+k[A1pl] bek[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+[Nom] bek[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]-DHk[Adj+PastPart]+[Pnon] beklenmedik[Adj] bekle[Verb]-Hn[Verb+Pass]+mA[Neg]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+[Nom] bekle[Verb]-Hn[Verb+Pass]+mA[Neg]-DHk[Adj+PastPart]+[Pnon]
+iyi iyi[Adj] iyi[Adv] iyi[Noun]+[A3sg]+[Pnon]+[Nom]
+davranış davran[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+[Nom] davranış[Noun]+[A3sg]+[Pnon]+[Nom]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jet jet[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Çok çok[Adv] çok[Postp]+[PCAbl] çok[Postp]+[PCAbl]+[A3sg]+[Pnon]+[Nom] çok[Adj] çok[Det]
+hızlı hız[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] Hızlı[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] hızlı[Adj] hızlı[Adv]
+, ,[Punc]
+tepkili tepki[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] tepkili[Adj]
+uçak uçak[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jet jet[Noun]+[A3sg]+[Pnon]+[Nom]
+motoru motor[Noun]+[A3sg]+SH[P3sg]+[Nom] motor[Noun]+[A3sg]+[Pnon]+YH[Acc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yüksek yüksek[Adj] yük[Noun]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+k[A1pl] yüksek[Adv] yüksek[Noun]+[A3sg]+[Pnon]+[Nom]
+basınçla basınç[Noun]+[A3sg]+[Pnon]+YlA[Ins] basınçla[Verb]+[Pos]+[Imp]+[A2sg]
+ve ve[Conj]
+çok çok[Adv] çok[Postp]+[PCAbl] çok[Postp]+[PCAbl]+[A3sg]+[Pnon]+[Nom] çok[Adj] çok[Det]
+büyük büyük[Adj]
+hızla hız[Noun]+[A3sg]+[Pnon]+YlA[Ins] hızla[Adv]
+gaz gaz[Noun]+[A3sg]+[Pnon]+[Nom]
+akışını ak[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+SH[P3sg]+NH[Acc] ak[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+Hn[P2sg]+NH[Acc] akış[Noun]+[A3sg]+SH[P3sg]+NH[Acc] akış[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+püskürtme püskür[Verb]-t[Verb+Caus]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] püskür[Verb]-t[Verb+Caus]+mA[Neg]+[Imp]+[A2sg] püskürtme[Adj] püskürtme[Noun]+[A3sg]+[Pnon]+[Nom]
+sistemiyle sistem[Noun]+[A3sg]+SH[P3sg]+YlA[Ins]
+en en[Adv] en[Noun]+[A3sg]+[Pnon]+[Nom]
+yüksek yüksek[Adj] yük[Noun]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+k[A1pl] yüksek[Adv] yüksek[Noun]+[A3sg]+[Pnon]+[Nom]
+düzeyde düzey[Noun]+[A3sg]+[Pnon]+DA[Loc]
+itme it[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] it[Verb]+mA[Neg]+[Imp]+[A2sg]
+gücü güç[Noun]+[A3sg]+SH[P3sg]+[Nom] Güç[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] güç[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] güç[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] güç[Noun]+[A3sg]+[Pnon]+YH[Acc] gücü[Noun]+[A3sg]+[Pnon]+[Nom]
+yaratan yarat[Verb]+[Pos]-YAn[Adj+PresPart] yara[Verb]-t[Verb+Caus]+[Pos]-YAn[Adj+PresPart]
+motor motor[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+tepkili tepki[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] tepkili[Adj]
+motor motor[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jet jet[Noun]+[A3sg]+[Pnon]+[Nom]
+yakıtı yakıt[Noun]+[A3sg]+SH[P3sg]+[Nom] yakıt[Noun]+[A3sg]+[Pnon]+YH[Acc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jet jet[Noun]+[A3sg]+[Pnon]+[Nom]
+motorlarının motor[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] motor[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] motor[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] motor[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen]
+çalışma çalış[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] çalış[Verb]+mA[Neg]+[Imp]+[A2sg] çalışma[Noun]+[A3sg]+[Pnon]+[Nom]
+sistemine sistem[Noun]+[A3sg]+SH[P3sg]+NA[Dat] sistem[Noun]+[A3sg]+Hn[P2sg]+NA[Dat]
+göre göre[Postp]+[PCDat] göre[Postp]+[PCDat]+[A3sg]+[Pnon]+[Nom] gör[Verb]+[Pos]+YA[Opt]+[A3sg] göre[Adv]
+ayrıştırılmış ayrış[Verb]-DHr[Verb+Caus]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+renksiz renk[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] renksiz[Adj]
+benzin benzin[Noun]+[A3sg]+[Pnon]+[Nom] beniz[Noun]+[A3sg]+[Pnon]+NHn[Gen] beniz[Noun]+[A3sg]+Hn[P2sg]+[Nom] Benz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jeton jeton[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Telefon telefon[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+türlü türlü[Adj] tür[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] tür[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] türlü[Adv] türlü[Noun]+[A3sg]+[Pnon]+[Nom]
+oyunlarda oyun[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+para para[Noun]+[A3sg]+[Pnon]+[Nom]
+yerine yer[Noun]+[A3sg]+SH[P3sg]+NA[Dat] yer[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] yerin[Verb]+[Pos]+YA[Opt]+[A3sg] yerine[Adv]
+kullanılan kullan[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] kul[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+küçük küçük[Adj] küçük[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+metal metal[Noun]+[A3sg]+[Pnon]+[Nom]
+veya veya[Conj]
+plastik plastik[Noun]+[A3sg]+[Pnon]+[Nom] plastik[Adj]
+marka marka[Noun]+[A3sg]+[Pnon]+[Nom] mark[Noun]+[A3sg]+[Pnon]+YA[Dat]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jetoncu jetoncu[Noun]+[A3sg]+[Pnon]+[Nom] jeton[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jeton jeton[Noun]+[A3sg]+[Pnon]+[Nom]
+satan sat[Verb]+[Pos]-YAn[Adj+PresPart]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jetonculuk jetoncu[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jeton[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jeton[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jetonculuk[Noun]+[A3sg]+[Pnon]+[Nom] jetoncu[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jetoncu jetoncu[Noun]+[A3sg]+[Pnon]+[Nom] jeton[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+olma ol[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] ol[Verb]+mA[Neg]+[Imp]+[A2sg] olma[Noun]+[A3sg]+[Pnon]+[Nom]
+durumu durum[Noun]+[A3sg]+SH[P3sg]+[Nom] durum[Noun]+[A3sg]+[Pnon]+YH[Acc] Duru[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NH[Acc] duru[Adj]-[Noun]+[A3sg]+Hm[P1sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jig jig[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+Orta orta[Noun]+[A3sg]+[Pnon]+[Nom] orta[Adj] Orta[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+Çağ çağ[Noun]+[A3sg]+[Pnon]+[Nom] Çağ[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] çağ[Verb]+[Pos]+[Imp]+[A2sg]
+çalgısı çalgı[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jigolo jigolo[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Geçimi geçim[Noun]+[A3sg]+SH[P3sg]+[Nom] geç[Adj]-[Noun]+[A3sg]+Hm[P1sg]+NH[Acc] geçim[Noun]+[A3sg]+[Pnon]+YH[Acc]
+yaşlı yaş[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] yaş[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] yaşlı[Adj] yaşlı[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+zengin zengin[Adj] Zengin[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Zeng[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+kadın kadın[Noun]+[A3sg]+[Pnon]+[Nom] Kad[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Kadın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] kadın[Adj] kadı[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+tarafından taraf[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] taraf[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl]
+sağlanan sağla[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart] sağ[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-YAn[Adj+PresPart]
+genç Genç[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] genç[Adj]
+, ,[Punc]
+erkek erkek[Noun]+[A3sg]+[Pnon]+[Nom] erkek[Adj]
+sevgili sevgili[Noun]+[A3sg]+[Pnon]+[Nom] Sevgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] sevgili[Adj] sevgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] Sevgili[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+tokmakçı tokmak[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] tokmakçı[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jigololuk jigolo[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jigolo[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jigololuk[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jigolo jigolo[Noun]+[A3sg]+[Pnon]+[Nom]
+olma ol[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] ol[Verb]+mA[Neg]+[Imp]+[A2sg] olma[Noun]+[A3sg]+[Pnon]+[Nom]
+durumu durum[Noun]+[A3sg]+SH[P3sg]+[Nom] durum[Noun]+[A3sg]+[Pnon]+YH[Acc] Duru[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NH[Acc] duru[Adj]-[Noun]+[A3sg]+Hm[P1sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jikle jikle[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Motorlu motor[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] motorlu[Adj]
+taşıtların taşıt[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] taşıt[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+yüksek yüksek[Adj] yük[Noun]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+k[A1pl] yüksek[Adv] yüksek[Noun]+[A3sg]+[Pnon]+[Nom]
+devirde devir[Noun]+[A3sg]+[Pnon]+DA[Loc]
+çalışması çalış[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+[Nom] çalışma[Noun]+[A3sg]+SH[P3sg]+[Nom]
+için için[Postp]+[PCNom] için[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+YHn[A2pl] iç[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] iç[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+fazla fazla[Adj] fazla[Postp]+[PCAbl] fazla[Postp]+[PCAbl]+[A3sg]+[Pnon]+[Nom] faz[Noun]+[A3sg]+[Pnon]+YlA[Ins] fazla[Adv]
+benzin benzin[Noun]+[A3sg]+[Pnon]+[Nom] beniz[Noun]+[A3sg]+[Pnon]+NHn[Gen] beniz[Noun]+[A3sg]+Hn[P2sg]+[Nom] Benz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom]
+akışını ak[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+SH[P3sg]+NH[Acc] ak[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+Hn[P2sg]+NH[Acc] akış[Noun]+[A3sg]+SH[P3sg]+NH[Acc] akış[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+sağlayan sağla[Verb]+[Pos]-YAn[Adj+PresPart]
+alet alet[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jile jile[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kadınların kadın[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] Kadın[Noun]+[Prop]+lAr[A3pl]+[Pnon]+NHn[Gen] Kadın[Noun]+[Prop]+lAr[A3pl]+Hn[P2sg]+[Nom] kadın[Adj]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] kadın[Adj]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] kadın[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+genellikle genellikle[Adv] genellik[Noun]+[A3sg]+[Pnon]+YlA[Ins] genel[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YlA[Ins]
+bluz bluz[Noun]+[A3sg]+[Pnon]+[Nom]
+üzerine Üzer[Noun]+[Prop]+[A3sg]+SH[P3sg]+NA[Dat] üzeri[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] üzerine[Adv] Üzer[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NA[Dat]
+giydikleri giy[Verb]+[Pos]-DHk[Adj+PastPart]+lArH[P3pl] giy[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+lArH[P3pl]+[Nom] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+[Pnon]+YH[Acc] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+SH[P3sg]+[Nom] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+SH[P3pl]+[Nom]
+yelek yelek[Noun]+[A3sg]+[Pnon]+[Nom]
+biçimindeki biçim[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]-ki[Adj+Rel] biçim[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]-ki[Adj+Rel]
+giysi giysi[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jilet jilet[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+İnce ince[Adj] in[Noun]+[A3sg]+[Pnon]+CA[Equ] İnce[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+çelikten çelik[Noun]+[A3sg]+[Pnon]+DAn[Abl] Çelikten[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] çelik[Adj]-[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+yapılmış yap[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+, ,[Punc]
+iki iki[Adj] iki[Noun]+[A3sg]+[Pnon]+[Nom]
+yanı yan[Noun]+[A3sg]+SH[P3sg]+[Nom] yan[Noun]+[A3sg]+[Pnon]+YH[Acc] yan[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] yan[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+keskin keskin[Adj] Keskin[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] keski[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+tıraş tıraş[Noun]+[A3sg]+[Pnon]+[Nom]
+bıçağı bıçak[Noun]+[A3sg]+SH[P3sg]+[Nom] bıçak[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jiletleme jiletle[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] jiletle[Verb]+mA[Neg]+[Imp]+[A2sg]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jiletlemek jiletle[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+işi iş[Noun]+[A3sg]+SH[P3sg]+[Nom] iş[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jiletlemek jiletle[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jiletle jilet[Noun]+[A3sg]+[Pnon]+YlA[Ins] jiletle[Verb]+[Pos]+[Imp]+[A2sg]
+kesmek kes[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jiletli jilet[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jiletli[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jileti jilet[Noun]+[A3sg]+[Pnon]+YH[Acc] jilet[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jiletsiz jilet[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] jiletsiz[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jileti jilet[Noun]+[A3sg]+[Pnon]+YH[Acc] jilet[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jimnastik jimnastik[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Vücudu vücut[Noun]+[A3sg]+[Pnon]+YH[Acc] vücut[Noun]+[A3sg]+SH[P3sg]+[Nom]
+çevikleştirmek çevik[Adj]-lAş[Verb+Become]-DHr[Verb+Caus]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom] Çevik[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lAş[Verb+Become]-DHr[Verb+Caus]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+ve ve[Conj]
+güçlendirmek güç[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-DHr[Verb+Caus]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom] güçlen[Verb]-DHr[Verb+Caus]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+için için[Postp]+[PCNom] için[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+YHn[A2pl] iç[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] iç[Noun]+[A3sg]+[Pnon]+NHn[Gen] iç[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+yapılan yap[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] yapı[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] yapılan[Verb]+[Pos]+[Imp]+[A2sg]
+alıştırmaların alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+[Pnon]+NHn[Gen] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+Hn[P2sg]+[Nom] alıştırma[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] alıştırma[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+tümü tüm[Pron]+[Quant]+[A3pl]+SH[P3pl]+[Nom] tüm[Noun]+[A3sg]+[Pnon]+YH[Acc] tüm[Noun]+[A3sg]+SH[P3sg]+[Nom] tüm[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] tüm[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+, ,[Punc]
+idman idman[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+kültürfizik kültürfizik[Noun]+[A3sg]+[Pnon]+[Nom]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Erkeklerde erkek[Noun]+lAr[A3pl]+[Pnon]+DA[Loc] erkek[Adj]-[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+, ,[Punc]
+yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+alıştırmaları alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+SH[P3pl]+[Nom] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+[A3sg]+lArH[P3pl]+[Nom] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+[Pnon]+YH[Acc] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+SH[P3sg]+[Nom] alıştırma[Noun]+[A3sg]+lArH[P3pl]+[Nom] alıştırma[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] alıştırma[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] alıştırma[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+, ,[Punc]
+barparalel barparalel[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+barfiks barfiks[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+halkalar halka[Noun]+lAr[A3pl]+[Pnon]+[Nom] halkala[Verb]+[Pos]+Hr[Aor]+[A3sg] halka[Adj]-[Noun]+lAr[A3pl]+[Pnon]+[Nom]
+ve ve[Conj]
+kulplu kulp[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] Kulp[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] kulplu[Adj]
+beygir beygir[Noun]+[A3sg]+[Pnon]+[Nom]
+; ;[Punc]
+kadınlarda kadın[Noun]+lAr[A3pl]+[Pnon]+DA[Loc] Kadın[Noun]+[Prop]+lAr[A3pl]+[Pnon]+DA[Loc] kadın[Adj]-[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+yer yer[Noun]+[A3sg]+[Pnon]+[Nom] ye[Verb]+[Pos]+Hr[Aor]+[A3sg] yer[Verb]+[Pos]+[Imp]+[A2sg]
+alıştırmaları alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+SH[P3pl]+[Nom] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+[A3sg]+lArH[P3pl]+[Nom] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+[Pnon]+YH[Acc] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+SH[P3sg]+[Nom] alıştırma[Noun]+[A3sg]+lArH[P3pl]+[Nom] alıştırma[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] alıştırma[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] alıştırma[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+, ,[Punc]
+eşit eşit[Adj] Eşit[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+çubuklar çubuk[Noun]+lAr[A3pl]+[Pnon]+[Nom] çubukla[Verb]+[Pos]+Hr[Aor]+[A3sg]
+, ,[Punc]
+barfiks barfiks[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+denge denge[Noun]+[A3sg]+[Pnon]+[Nom] denk[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat] denk[Noun]+[A3sg]+[Pnon]+YA[Dat]
+kalası Kala[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] kal[Verb]+[Pos]-YAsH[Noun+FeelLike]+[A3sg]+[Pnon]+[Nom] kalas[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] kalas[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] kalas[Noun]+[A3sg]+[Pnon]+YH[Acc] kalas[Noun]+[A3sg]+SH[P3sg]+[Nom]
+alıştırmalarını alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+SH[P3pl]+NH[Acc] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+[A3sg]+lArH[P3pl]+NH[Acc] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+SH[P3sg]+NH[Acc] alış[Verb]-DHr[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+Hn[P2sg]+NH[Acc] alıştırma[Noun]+[A3sg]+lArH[P3pl]+NH[Acc] alıştırma[Noun]+lAr[A3pl]+SH[P3sg]+NH[Acc] alıştırma[Noun]+lAr[A3pl]+SH[P3pl]+NH[Acc] alıştırma[Noun]+lAr[A3pl]+Hn[P2sg]+NH[Acc]
+içeren içer[Verb]+[Pos]-YAn[Adj+PresPart]
+yarışma yarışma[Noun]+[A3sg]+[Pnon]+[Nom] yarış[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] yarış[Verb]+mA[Neg]+[Imp]+[A2sg]
+disiplini disiplin[Noun]+[A3sg]+SH[P3sg]+[Nom] disiplin[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jimnastikçi jimnastikçi[Noun]+[A3sg]+[Pnon]+[Nom] jimnastik[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jimnastik jimnastik[Noun]+[A3sg]+[Pnon]+[Nom]
+yapan yap[Verb]+[Pos]-YAn[Adj+PresPart]
+sporcu spor[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] sporcu[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jimnastik jimnastik[Noun]+[A3sg]+[Pnon]+[Nom]
+öğretmeni öğretmen[Noun]+[A3sg]+SH[P3sg]+[Nom] öğretmen[Noun]+[A3sg]+[Pnon]+YH[Acc] öğret[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+Hn[P2sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jinekolog jinekolog[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jinekoloji jinekoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+uzmanı uzman[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] uzman[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Noun]+[A3sg]+[Pnon]+YH[Acc] Uzman[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+hekim hekim[Noun]+[A3sg]+[Pnon]+[Nom] Hekim[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+nisaiye nisaiye[Noun]+[A3sg]+[Pnon]+[Nom] nisai[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat]
+uzmanı uzman[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] uzman[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] uzman[Noun]+[A3sg]+[Pnon]+YH[Acc] Uzman[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jinekoloji jinekoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kadın kadın[Noun]+[A3sg]+[Pnon]+[Nom] Kad[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Kadın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] kadın[Adj] kadı[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+organizmasını organizma[Noun]+[A3sg]+SH[P3sg]+NH[Acc]
+ve ve[Conj]
+cinsel cinsel[Adj]
+organlarını organ[Noun]+lAr[A3pl]+SH[P3sg]+NH[Acc] organ[Noun]+[A3sg]+lArH[P3pl]+NH[Acc] organ[Noun]+lAr[A3pl]+SH[P3pl]+NH[Acc] organ[Noun]+lAr[A3pl]+Hn[P2sg]+NH[Acc]
+fizyolojik fizyolojik[Adj]
+, ,[Punc]
+morfolojik morfolojik[Adj]
+ve ve[Conj]
+patolojik patolojik[Adj]
+bakımdan bakım[Noun]+[A3sg]+[Pnon]+DAn[Abl] bakı[Noun]+[A3sg]+Hm[P1sg]+NDAn[Abl]
+inceleyen incele[Verb]+[Pos]-YAn[Adj+PresPart]
+bilim bilim[Noun]+[A3sg]+[Pnon]+[Nom] bili[Noun]+[A3sg]+Hm[P1sg]+[Nom]
+, ,[Punc]
+nisaiye nisaiye[Noun]+[A3sg]+[Pnon]+[Nom] nisai[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kadın kadın[Noun]+[A3sg]+[Pnon]+[Nom] Kad[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Kadın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] kadın[Adj] kadı[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+hastalıklarını hastalık[Noun]+lAr[A3pl]+SH[P3sg]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+lArH[P3pl]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+SH[P3sg]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+SH[P3pl]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+Hn[P2sg]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+lArH[P3pl]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+SH[P3sg]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+SH[P3pl]+NH[Acc] hasta[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+Hn[P2sg]+NH[Acc] hasta[Adj]-lHk[Noun+Ness]+[A3sg]+lArH[P3pl]+NH[Acc] hasta[Adj]-lHk[Noun+Ness]+lAr[A3pl]+SH[P3sg]+NH[Acc] hasta[Adj]-lHk[Noun+Ness]+lAr[A3pl]+SH[P3pl]+NH[Acc] hasta[Adj]-lHk[Noun+Ness]+lAr[A3pl]+Hn[P2sg]+NH[Acc] hastalık[Noun]+[A3sg]+lArH[P3pl]+NH[Acc] hastalık[Noun]+lAr[A3pl]+SH[P3pl]+NH[Acc] hastalık[Noun]+lAr[A3pl]+Hn[P2sg]+NH[Acc]
+konu konu[Noun]+[A3sg]+[Pnon]+[Nom]
+edinen edin[Verb]+[Pos]-YAn[Adj+PresPart]
+tıp tıp[Noun]+[A3sg]+[Pnon]+[Nom]
+dalı dal[Noun]+[A3sg]+SH[P3sg]+[Nom] dal[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] dal[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] Dal[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] dal[Noun]+[A3sg]+[Pnon]+YH[Acc]
+, ,[Punc]
+nisaiye nisaiye[Noun]+[A3sg]+[Pnon]+[Nom] nisai[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jinekolojik jinekolojik[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jinekoloji jinekoloji[Noun]+[A3sg]+[Pnon]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+ilgili ilgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Noun]+[A3sg]+[Pnon]+[Nom] İlgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jips jips[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Alçı alçı[Noun]+[A3sg]+[Pnon]+[Nom]
+taşı taş[Noun]+[A3sg]+SH[P3sg]+[Nom] taş[Noun]+[A3sg]+[Pnon]+YH[Acc] taşı[Verb]+[Pos]+[Imp]+[A2sg] taş[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] taş[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jiujitsu jiujitsu[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Güçten güç[Noun]+[A3sg]+[Pnon]+DAn[Abl] güç[Adj]-[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+çok çok[Det] çok[Postp]+[PCAbl] çok[Postp]+[PCAbl]+[A3sg]+[Pnon]+[Nom] çok[Adj] çok[Adv]
+yönteme yöntem[Noun]+[A3sg]+[Pnon]+YA[Dat] Yönte[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NA[Dat]
+dayanan dayan[Verb]+[Pos]-YAn[Adj+PresPart] daya[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+çıplak çıplak[Adj] çıplak[Noun]+[A3sg]+[Pnon]+[Nom]
+elle el[Noun]+[A3sg]+[Pnon]+YlA[Ins] elle[Verb]+[Pos]+[Imp]+[A2sg] Elle[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+savunma savun[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] savun[Verb]+mA[Neg]+[Imp]+[A2sg]
+tekniği teknik[Noun]+[A3sg]+SH[P3sg]+[Nom] teknik[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] teknik[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] teknik[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jiujitsucu jiujitsucu[Noun]+[A3sg]+[Pnon]+[Nom] jiujitsu[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jiujitsu jiujitsu[Noun]+[A3sg]+[Pnon]+[Nom]
+yapan yap[Verb]+[Pos]-YAn[Adj+PresPart]
+sporcu spor[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] sporcu[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jogging jogging[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kır kır[Noun]+[A3sg]+[Pnon]+[Nom] kır[Adj] kır[Verb]+[Pos]+[Imp]+[A2sg]
+, ,[Punc]
+orman orman[Noun]+[A3sg]+[Pnon]+[Nom] Orman[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+vb. vb.[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom]
+yerlerde yer[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+yapılan yap[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] yapı[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] yapılan[Verb]+[Pos]+[Imp]+[A2sg]
+koşu koşu[Noun]+[A3sg]+[Pnon]+[Nom]
+sporu spor[Noun]+[A3sg]+SH[P3sg]+[Nom] spor[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] spor[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] spor[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+joker joker[Noun]+[A3sg]+[Pnon]+[Nom] joker[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bazı bazı[Adj] baz[Noun]+[A3sg]+[Pnon]+YH[Acc] baz[Noun]+[A3sg]+SH[P3sg]+[Nom] baz[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] baz[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] bazı[Adv] bazı[Det]
+kâğıt kâğıt[Noun]+[A3sg]+[Pnon]+[Nom] kâğıt[Adj]
+veya veya[Conj]
+taş taş[Noun]+[A3sg]+[Pnon]+[Nom] taş[Verb]+[Pos]+[Imp]+[A2sg] taş[Adj]
+oyunlarında oyun[Noun]+lAr[A3pl]+SH[P3sg]+NDA[Loc] oyun[Noun]+[A3sg]+lArH[P3pl]+NDA[Loc] oyun[Noun]+lAr[A3pl]+SH[P3pl]+NDA[Loc] oyun[Noun]+lAr[A3pl]+Hn[P2sg]+NDA[Loc]
+istenen iste[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+kartın kart[Noun]+[A3sg]+[Pnon]+NHn[Gen] kart[Noun]+[A3sg]+Hn[P2sg]+[Nom] kart[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] kart[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+veya veya[Conj]
+taşın taş[Noun]+[A3sg]+[Pnon]+NHn[Gen] taş[Noun]+[A3sg]+Hn[P2sg]+[Nom] taş[Verb]+[Pos]+[Imp]+YHn[A2pl] taşı[Verb]-Hn[Verb+Pass]+[Pos]+[Imp]+[A2sg] taş[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] taş[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] taşın[Verb]+[Pos]+[Imp]+[A2sg]
+yerine yer[Noun]+[A3sg]+SH[P3sg]+NA[Dat] yer[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] yerin[Verb]+[Pos]+YA[Opt]+[A3sg] yerine[Adv]
+konabilen kon(I)[Verb]-YAbil[Verb+Able]+[Pos]-YAn[Adj+PresPart] kon(II)[Verb]-YAbil[Verb+Able]+[Pos]-YAn[Adj+PresPart]
+kart kart[Noun]+[A3sg]+[Pnon]+[Nom] kart[Adj]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Her her[Det] her[Adj]
+işe iş[Noun]+[A3sg]+[Pnon]+YA[Dat] işe[Verb]+[Pos]+[Imp]+[A2sg]
+yarayan yara[Verb]+[Pos]-YAn[Adj+PresPart]
+( ([Punc]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+) )[Punc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Her her[Det] her[Adj]
+yerde yer[Noun]+[A3sg]+[Pnon]+DA[Loc]
+kullanılabilen kullan[Verb]-Hl[Verb+Pass]-YAbil[Verb+Able]+[Pos]-YAn[Adj+PresPart] kul[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]-YAbil[Verb+Able]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jokey jokey[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yarış yarış[Noun]+[A3sg]+[Pnon]+[Nom] yar[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+[Nom] yarış[Verb]+[Pos]+[Imp]+[A2sg]
+atlarına at[Noun]+lAr[A3pl]+SH[P3sg]+NA[Dat] at[Noun]+[A3sg]+lArH[P3pl]+NA[Dat] at[Noun]+lAr[A3pl]+SH[P3pl]+NA[Dat] at[Noun]+lAr[A3pl]+Hn[P2sg]+NA[Dat]
+binen bin[Verb]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+yetenekleri yetenek[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] yetenek[Noun]+[A3sg]+lArH[P3pl]+[Nom] yetenek[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] yetenek[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+amaca amaç[Noun]+[A3sg]+[Pnon]+YA[Dat]
+göre göre[Postp]+[PCDat] göre[Postp]+[PCDat]+[A3sg]+[Pnon]+[Nom] gör[Verb]+[Pos]+YA[Opt]+[A3sg] göre[Adv]
+geliştirilmiş geliş[Verb]-DHr[Verb+Caus]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jokeyli jokey[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jokeyli[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jokeyi jokey[Noun]+[A3sg]+[Pnon]+YH[Acc] jokey[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jokeylik jokey[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jokey[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jokeylik[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jokey jokey[Noun]+[A3sg]+[Pnon]+[Nom]
+olma ol[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] ol[Verb]+mA[Neg]+[Imp]+[A2sg] olma[Noun]+[A3sg]+[Pnon]+[Nom]
+durumu durum[Noun]+[A3sg]+SH[P3sg]+[Nom] durum[Noun]+[A3sg]+[Pnon]+YH[Acc] Duru[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NH[Acc] duru[Adj]-[Noun]+[A3sg]+Hm[P1sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jokeysiz jokey[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] jokeysiz[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jokeyi jokey[Noun]+[A3sg]+[Pnon]+YH[Acc] jokey[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jorjet jorjet[Noun]+[A3sg]+[Pnon]+[Nom] jorjet[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bürümcük bürümcük[Adj] bürümcük[Noun]+[A3sg]+[Pnon]+[Nom] bürüm[Adj]-CHk[Noun+Dim]+[A3sg]+[Pnon]+[Nom]
+görünüşlü görün[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] görünüş[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]
+, ,[Punc]
+çok çok[Adv] çok[Postp]+[PCAbl] çok[Postp]+[PCAbl]+[A3sg]+[Pnon]+[Nom] çok[Adj] çok[Det]
+bükümlü büküm[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] bükümlü[Adj]
+, ,[Punc]
+genellikle genellikle[Adv] genellik[Noun]+[A3sg]+[Pnon]+YlA[Ins] genel[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YlA[Ins]
+pamuk pamuk[Noun]+[A3sg]+[Pnon]+[Nom] pamuk[Adj] Pamuk[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+iplikleri ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+SH[P3sg]+[Nom] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+lArH[P3pl]+[Nom] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+[Pnon]+YH[Acc] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+lAr[A3pl]+SH[P3pl]+[Nom] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+lArH[P3pl]+[Nom] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] ip[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+lAr[A3pl]+SH[P3pl]+[Nom] iplik[Noun]+[A3sg]+lArH[P3pl]+[Nom] iplik[Noun]+lAr[A3pl]+[Pnon]+YH[Acc] iplik[Noun]+lAr[A3pl]+SH[P3sg]+[Nom] iplik[Noun]+lAr[A3pl]+SH[P3pl]+[Nom]
+ile ile[Postp]+[PCNom] ile[Postp]+[PCNom]+[A3sg]+[Pnon]+[Nom] il[Verb]+[Pos]+YA[Opt]+[A3sg] il[Noun]+[A3sg]+[Pnon]+YA[Dat] ile[Conj]
+dokunmuş dokun[Verb]+[Pos]+mHş[Narr]+[A3sg] doku[Verb]-Hn[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg] dok[Noun]+[A3sg]+[Pnon]+NHn[Gen]-YmHş[Verb+Narr]+[A3sg] dok[Noun]+[A3sg]+Hn[P2sg]+[Nom]-YmHş[Verb+Narr]+[A3sg] doku[Noun]+[A3sg]+Hn[P2sg]+[Nom]-YmHş[Verb+Narr]+[A3sg]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+kumaş kumaş[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+kumaştan kumaş[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+yapılmış yap[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jöle jöle[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Meyve meyve[Noun]+[A3sg]+[Pnon]+[Nom]
+suyunun su[Noun]+[A3sg]+SH[P3sg]+NHn[Gen] su[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+şekerle şeker[Noun]+[A3sg]+[Pnon]+YlA[Ins] şekerle[Verb]+[Pos]+[Imp]+[A2sg] şeker[Adj]-[Noun]+[A3sg]+[Pnon]+YlA[Ins]
+kaynatılmasıyla kayna[Verb]-t[Verb+Caus]-Hl[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+YlA[Ins]
+istenilen iste[Verb]-Hn[Verb+Pass]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+yoğunlukta yoğun[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+DA[Loc] yoğunluk[Noun]+[A3sg]+[Pnon]+DA[Loc] Yoğun[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+DA[Loc]
+elde el[Noun]+[A3sg]+[Pnon]+DA[Loc] elde[Noun]+[A3sg]+[Pnon]+[Nom]
+edilmiş et[Verb]-Hl[Verb+Pass]+[Pos]+mHş[Narr]+[A3sg]
+şekerleme şekerle[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] şekerle[Verb]+mA[Neg]+[Imp]+[A2sg] şekerleme[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Et et[Noun]+[A3sg]+[Pnon]+[Nom] et[Verb]+[Pos]+[Imp]+[A2sg]
+suyunun su[Noun]+[A3sg]+SH[P3sg]+NHn[Gen] su[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+soğuduktan soğu[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+DAn[Abl]
+sonra sonra[Postp]+[PCAbl] sonra[Postp]+[PCAbl]+[A3sg]+[Pnon]+[Nom] sonra[Adv] sonra[Noun]+[A3sg]+[Pnon]+[Nom]
+gevşek gevşek[Adj] gevşek[Adv]
+ve ve[Conj]
+esnek esnek[Adj]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+kıvam kıvam[Noun]+[A3sg]+[Pnon]+[Nom]
+almış al[Verb]+[Pos]+mHş[Narr]+[A3sg] al[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-YmHş[Verb+Narr]+[A3sg] al[Adj]-YmHş[Verb+Narr]+[A3sg] al[Noun]+[A3sg]+[Pnon]+[Nom]-YmHş[Verb+Narr]+[A3sg]
+durumu durum[Noun]+[A3sg]+SH[P3sg]+[Nom] durum[Noun]+[A3sg]+[Pnon]+YH[Acc] Duru[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NH[Acc] duru[Adj]-[Noun]+[A3sg]+Hm[P1sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Saçın saç[Verb]+[Pos]+[Imp]+YHn[A2pl] saçı[Noun]+[A3sg]+Hn[P2sg]+[Nom] Saçı[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom]
+düzgün düzgün[Adj] düzgün[Adv] Düzgün[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] düzgü[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+biçimde biçim[Noun]+[A3sg]+[Pnon]+DA[Loc]
+uzun uzun[Adj] uz[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] uz[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] Uz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Uzun[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] uzun[Adv]
+süre süre[Noun]+[A3sg]+[Pnon]+[Nom] sür[Verb]+[Pos]+YA[Opt]+[A3sg]
+kalmasını kal[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+SH[P3sg]+NH[Acc] kalma[Adj]-[Noun]+[A3sg]+SH[P3sg]+NH[Acc]
+sağlayan sağla[Verb]+[Pos]-YAn[Adj+PresPart]
+yağlı yağ[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] yağlı[Adj]
+, ,[Punc]
+parlak parlak[Adj] Parlak[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+yapışkan yapışkan[Adj] yapışkan[Noun]+[A3sg]+[Pnon]+[Nom]
+madde madde[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jöleli jöle[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] jöleli[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jölesi jöle[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jölesiz jöle[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] jölesiz[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jölesi jöle[Noun]+[A3sg]+SH[P3sg]+[Nom]
+olmayan ol[Verb]+mA[Neg]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jön jön[Noun]+[A3sg]+[Pnon]+[Nom] jön[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Genç genç[Adj] Genç[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Önemli önem[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] Önemli[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] önemli[Adj]
+rollerde rol[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+oynayan oyna[Verb]+[Pos]-YAn[Adj+PresPart]
+genç genç[Adj] Genç[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+oyuncu oyun[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom] oyuncu[Adj] oyuncu[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+jönprömiye jönprömiye[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jönprömiye jönprömiye[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jön jön[Adj] jön[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+judo judo[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jiujitsudan jiujitsu[Noun]+[A3sg]+[Pnon]+DAn[Abl]
+gelişmiş geliş[Verb]+[Pos]+mHş[Narr]+[A3sg] gel[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+[Nom]-YmHş[Verb+Narr]+[A3sg] gelişmiş[Adj] geliş[Noun]+[A3sg]+[Pnon]+[Nom]-YmHş[Verb+Narr]+[A3sg]
+, ,[Punc]
+silahsız silah[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] silahsız[Adj]
+olarak ol[Verb]+[Pos]-YArAk[Adv+ByDoingSo]
+tutmalara tut[Verb]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+[Pnon]+YA[Dat] tutma[Noun]+lAr[A3pl]+[Pnon]+YA[Dat]
+, ,[Punc]
+fırlatmalara fırla[Verb]-t[Verb+Caus]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+[Pnon]+YA[Dat]
+, ,[Punc]
+hareketsiz hareket[Noun]+[A3sg]+[Pnon]+[Nom]-sHz[Adj+Without] hareketsiz[Adj]
+bırakmalara bırak[Verb]+[Pos]-mA[Noun+Inf2]+lAr[A3pl]+[Pnon]+YA[Dat]
+dayanan dayan[Verb]+[Pos]-YAn[Adj+PresPart] daya[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+Japon Japon[Noun]+[A3sg]+[Pnon]+[Nom] Japon[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Japon[Adj]
+kökenli köken[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] kökenli[Adj] Köken[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]
+dövüş döv[Verb]+[Pos]-YHş[Noun+Inf3]+[A3sg]+[Pnon]+[Nom] dövüş[Noun]+[A3sg]+[Pnon]+[Nom] dövüş[Verb]+[Recip]+[Pos]+[Imp]+[A2sg]
+sporu spor[Noun]+[A3sg]+SH[P3sg]+[Nom] spor[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc] spor[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] spor[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+judocu judocu[Noun]+[A3sg]+[Pnon]+[Nom] judo[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Judo judo[Noun]+[A3sg]+[Pnon]+[Nom]
+yapan yap[Verb]+[Pos]-YAn[Adj+PresPart]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jul jul[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+cisim cisim[Noun]+[A3sg]+[Pnon]+[Nom]
+üzerine Üzer[Noun]+[Prop]+[A3sg]+SH[P3sg]+NA[Dat] üzeri[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] üzerine[Adv] Üzer[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NA[Dat]
+uygulanan uygula[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+nevtonluk nevton[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] nevton[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom]
+kuvvetin kuvvet[Noun]+[A3sg]+[Pnon]+NHn[Gen] kuvvet[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+uygulama uygulama[Noun]+[A3sg]+[Pnon]+[Nom] uygula[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] uygula[Verb]+mA[Neg]+[Imp]+[A2sg]
+noktasını nokta[Noun]+[A3sg]+SH[P3sg]+NH[Acc]
+, ,[Punc]
+kendi kendi[Pron]+[Reflex]+[A3sg]+[P3sg]+[Nom]
+doğrultusunda doğrultu[Noun]+[A3sg]+SH[P3sg]+NDA[Loc]
+1 1[Num]
+m m[Noun]+[Abbr]+[A3sg]+[Pnon]+[Nom] M[Noun]+[Acro]+[A3sg]+[Pnon]+[Nom]
+değiştiren değiş[Verb]-DHr[Verb+Caus]+[Pos]-YAn[Adj+PresPart]
+iş iş[Noun]+[A3sg]+[Pnon]+[Nom]
+birimi birim[Noun]+[A3sg]+SH[P3sg]+[Nom] bir[Adj]-[Noun]+[A3sg]+Hm[P1sg]+NH[Acc] bir[Noun]+[A3sg]+Hm[P1sg]+NH[Acc] birim[Noun]+[A3sg]+[Pnon]+YH[Acc] Birim[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jullük jul[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jul[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jullük[Adj]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+jul jul[Noun]+[A3sg]+[Pnon]+[Nom]
+değerinde değer[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] değer[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] değer[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] değer[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] Değer[Noun]+[Prop]+[A3sg]+SH[P3sg]+NDA[Loc] Değer[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NDA[Loc]
+olan ol[Verb]+[Pos]-YAn[Adj+PresPart]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jurnal jurnal[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Biriyle biri[Pron]+[Quant]+[A3sg]+[P3sg]+YlA[Ins] bir[Adj]-[Noun]+[A3sg]+SH[P3sg]+YlA[Ins] bir[Noun]+[A3sg]+SH[P3sg]+YlA[Ins]
+ilgili ilgili[Noun]+[A3sg]+[Pnon]+[Nom] ilgi[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] İlgi[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] ilgili[Adj]
+olarak ol[Verb]+[Pos]-YArAk[Adv+ByDoingSo]
+yetkililere yetkili[Noun]+lAr[A3pl]+[Pnon]+YA[Dat] yetkili[Adj]-[Noun]+lAr[A3pl]+[Pnon]+YA[Dat] yetki[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-[Noun]+lAr[A3pl]+[Pnon]+YA[Dat]
+verilen ver[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] veri[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg]
+kötüleme kötüle[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] kötüle[Verb]+mA[Neg]+[Imp]+[A2sg]
+, ,[Punc]
+ihbar ihbar[Noun]+[A3sg]+[Pnon]+[Nom]
+yazısı yazı[Noun]+[A3sg]+SH[P3sg]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Günlük günlük[Adj] Gün[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] günlük[Noun]+[A3sg]+[Pnon]+[Nom] gün[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] gün[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jurnalci jurnalci[Noun]+[A3sg]+[Pnon]+[Nom] jurnal[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jurnal jurnal[Noun]+[A3sg]+[Pnon]+[Nom]
+ederek et[Verb]+[Pos]-YArAk[Adv+ByDoingSo]
+yetkililere yetkili[Noun]+lAr[A3pl]+[Pnon]+YA[Dat] yetkili[Adj]-[Noun]+lAr[A3pl]+[Pnon]+YA[Dat] yetki[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-[Noun]+lAr[A3pl]+[Pnon]+YA[Dat]
+, ,[Punc]
+yöneticilere yönetici[Noun]+lAr[A3pl]+[Pnon]+YA[Dat] yönet[Verb]+[Pos]-YHcH[Noun+Agt]+lAr[A3pl]+[Pnon]+YA[Dat]
+yaranmaya yaran[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] yara[Verb]-Hn[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] yara[Verb]-Hn[Verb+Pass]+mA[Neg]+YA[Opt]+[A3sg] yaran[Verb]+mA[Neg]+YA[Opt]+[A3sg]
+çalışan çalış[Verb]+[Pos]-YAn[Adj+PresPart] çalışan[Noun]+[A3sg]+[Pnon]+[Nom]
+kimse kimse[Noun]+[A3sg]+[Pnon]+[Nom] kimse[Pron]+[Quant]+[A3sg]+[Pnon]+[Nom] kim[Pron]+[Ques]+[A3sg]+[Pnon]+[Nom]-YsA[Verb+Cond]+[A3sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jurnalcilik jurnalci[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jurnalcilik[Noun]+[A3sg]+[Pnon]+[Nom] jurnal[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] jurnal[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] jurnalci[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jurnalcinin jurnalci[Noun]+[A3sg]+[Pnon]+NHn[Gen] jurnal[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+[Pnon]+NHn[Gen] jurnal[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+[A3sg]+Hn[P2sg]+NHn[Gen] jurnalci[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+yaptığı yap[Verb]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] yap[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] yap[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom]
+iş iş[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jurnalleme jurnalle[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] jurnalle[Verb]+mA[Neg]+[Imp]+[A2sg]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jurnallemek jurnalle[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+işi iş[Noun]+[A3sg]+SH[P3sg]+[Nom] iş[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jurnallemek jurnalle[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Şikâyet şikâyet[Noun]+[A3sg]+[Pnon]+[Nom]
+etmek et[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+, ,[Punc]
+ispiyonlamak ispiyonla[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+, ,[Punc]
+ihbar ihbar[Noun]+[A3sg]+[Pnon]+[Nom]
+etmek et[Verb]+[Pos]-mAk[Noun+Inf1+A3sg+Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+juro juro[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+İkinci ikinci[Adj] ikinci[Noun]+[A3sg]+[Pnon]+[Nom]
+Çağın çağ[Noun]+[A3sg]+[Pnon]+NHn[Gen] Çağ[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] çağ[Noun]+[A3sg]+Hn[P2sg]+[Nom] çağ[Verb]+[Pos]+[Imp]+YHn[A2pl] Çağın[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+triasla trias[Noun]+[A3sg]+[Pnon]+YlA[Ins]
+kretase kretase[Noun]+[A3sg]+[Pnon]+[Nom]
+arasında ara[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] ara[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] Aras[Noun]+[Prop]+[A3sg]+SH[P3sg]+NDA[Loc] Aras[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NDA[Loc]
+kalan kalan[Noun]+[A3sg]+[Pnon]+[Nom] kal[Verb]+[Pos]-YAn[Adj+PresPart] Kala[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] kalan[Adj]
+dönemi dönem[Noun]+[A3sg]+SH[P3sg]+[Nom] dönem[Noun]+[A3sg]+[Pnon]+YH[Acc] Döne[Noun]+[Prop]+[A3sg]+Hm[P1sg]+NH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jübile jübile[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ahd AHD[Noun]+[Acro]+[A3sg]+[Pnon]+[Nom]
+-i -i[Unknown]
+Atik Atik[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] atik(II)[Adj] atik(I)[Adj]
+göre göre[Postp]+[PCDat] göre[Postp]+[PCDat]+[A3sg]+[Pnon]+[Nom] gör[Verb]+[Pos]+YA[Opt]+[A3sg] göre[Adv]
+, ,[Punc]
+Yahudilerde Yahudi[Noun]+lAr[A3pl]+[Pnon]+DA[Loc] Yahudi[Noun]+[Prop]+lAr[A3pl]+[Pnon]+DA[Loc] yahudi[Adj]-[Noun]+lAr[A3pl]+[Pnon]+DA[Loc]
+, ,[Punc]
+elli elli[Adj] el[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] elli[Noun]+[A3sg]+[Pnon]+[Nom]
+yılda yıl[Noun]+[A3sg]+[Pnon]+DA[Loc]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+Tanrı Tanrı[Noun]+[A3sg]+[Pnon]+[Nom] Tanrı[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] tanrı[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+dinlenmeye dinlen[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] din(I)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] din(I)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]+YA[Opt]+[A3sg] din(II)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] din(II)[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+mA[Neg]+YA[Opt]+[A3sg] dinle[Verb]-Hn[Verb+Pass]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+YA[Dat] dinle[Verb]-Hn[Verb+Pass]+mA[Neg]+YA[Opt]+[A3sg] dinlen[Verb]+mA[Neg]+YA[Opt]+[A3sg]
+ayrılan ayrıl[Verb]+[Pos]-YAn[Adj+PresPart]
+yıl yıl[Noun]+[A3sg]+[Pnon]+[Nom] yıl[Verb]+[Pos]+[Imp]+[A2sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Katoliklerde Katolik[Noun]+lAr[A3pl]+[Pnon]+DA[Loc] Katolik[Noun]+[Prop]+lAr[A3pl]+[Pnon]+DA[Loc]
+, ,[Punc]
+Roma Roma[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] rom[Noun]+[A3sg]+[Pnon]+YA[Dat]
+hacca hac[Noun]+[A3sg]+[Pnon]+YA[Dat] hac[Noun]+[A3sg]+[Pnon]+CA[Equ]
+gidenlerin git[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] git[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+, ,[Punc]
+kilisece kilise[Noun]+[A3sg]+[Pnon]+CA[Equ]
+günahlarının günah[Noun]+lAr[A3pl]+SH[P3sg]+NHn[Gen] günah[Noun]+[A3sg]+lArH[P3pl]+NHn[Gen] günah[Noun]+lAr[A3pl]+SH[P3pl]+NHn[Gen] günah[Noun]+lAr[A3pl]+Hn[P2sg]+NHn[Gen]
+tam tam[Adj] tam[Adv]
+olarak ol[Verb]+[Pos]-YArAk[Adv+ByDoingSo]
+bağışlandığı bağışla[Verb]-Hn[Verb+Pass]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] bağış[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] bağış[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom] bağış[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-DHk[Adj+PastPart]+SH[P3sg] bağışla[Verb]-Hn[Verb+Pass]+[Pos]-DHk[Noun+PastPart]+[A3sg]+[Pnon]+YH[Acc] bağışla[Verb]-Hn[Verb+Pass]+[Pos]-DHk[Noun+PastPart]+[A3sg]+SH[P3sg]+[Nom]
+yıl yıl[Noun]+[A3sg]+[Pnon]+[Nom] yıl[Verb]+[Pos]+[Imp]+[A2sg]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Evliliğin evlilik[Noun]+[A3sg]+[Pnon]+NHn[Gen] ev[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-lHk[Noun+Ness]+[A3sg]+[Pnon]+NHn[Gen] ev[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]-lHk[Noun+Ness]+[A3sg]+Hn[P2sg]+[Nom] evli[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+NHn[Gen] evli[Adj]-lHk[Noun+Ness]+[A3sg]+Hn[P2sg]+[Nom] evlilik[Noun]+[A3sg]+Hn[P2sg]+[Nom]
+ellinci ellinci[Adj]
+yılında yıl[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] yıl[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+düzenlenen düzenle[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart] düzen[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-YAn[Adj+PresPart]
+kutlama kutla[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] kutla[Verb]+mA[Neg]+[Imp]+[A2sg]
+şenliği şenlik[Noun]+[A3sg]+SH[P3sg]+[Nom] Şen[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+[Pnon]+YH[Acc] Şen[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor]-[Noun]+[A3sg]+SH[P3sg]+[Nom] şen[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+YH[Acc] şen[Adj]-lHk[Noun+Ness]+[A3sg]+SH[P3sg]+[Nom] Şenlik[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] şenlik[Noun]+[A3sg]+[Pnon]+YH[Acc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+sanat sanat[Noun]+[A3sg]+[Pnon]+[Nom] Sanat[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+veya veya[Conj]
+spor spor[Noun]+[A3sg]+[Pnon]+[Nom] spor[Adj]
+dalında dal[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] dal[Adj]-[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] dal[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc] Dal[Noun]+[Prop]+[A3sg]+SH[P3sg]+NDA[Loc] Dal[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NDA[Loc] dal[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+uzun uzun[Adj] uz[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] uz[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] Uz[Noun]+[Prop]+[A3sg]+Hn[P2sg]+[Nom] Uzun[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] uzun[Adv]
+süre süre[Noun]+[A3sg]+[Pnon]+[Nom] sür[Verb]+[Pos]+YA[Opt]+[A3sg]
+çalışanların çalışan[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] çalışan[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] çalış[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] çalış[Verb]+[Pos]-YAn[Adj+PresPart]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+onuruna onur[Noun]+[A3sg]+SH[P3sg]+NA[Dat] Onur[Noun]+[Prop]+[A3sg]+SH[P3sg]+NA[Dat] Onur[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NA[Dat] onur[Noun]+[A3sg]+Hn[P2sg]+NA[Dat]
+düzenlenen düzenle[Verb]-Hn[Verb+Pass]+[Pos]-YAn[Adj+PresPart] düzen[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]-YAn[Adj+PresPart]
+kutlama kutla[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] kutla[Verb]+mA[Neg]+[Imp]+[A2sg]
+töreni tören[Noun]+[A3sg]+SH[P3sg]+[Nom] Tören[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] tören[Noun]+[A3sg]+[Pnon]+YH[Acc] Töre[Noun]+[Prop]+[A3sg]+Hn[P2sg]+NH[Acc] töre[Noun]+[A3sg]+Hn[P2sg]+NH[Acc]
+: :[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Jüpiter Jüpiter[Noun]+[A3sg]+[Pnon]+[Nom] Jüpiter[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Gezegenlerin gezegen[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] gezegen[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+en en[Adv] en[Noun]+[A3sg]+[Pnon]+[Nom]
+büyüğü büyük[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom] büyük[Adj]-[Noun]+[A3sg]+[Pnon]+YH[Acc]
+ve ve[Conj]
+güneşe Güneş[Noun]+[A3sg]+[Pnon]+YA[Dat] güneş[Noun]+[A3sg]+[Pnon]+YA[Dat]
+yakınlık yakın[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] yakın[Noun]+[A3sg]+[Pnon]+[Nom]-lHk[Adj+FitFor] yakın[Adj]-lHk[Noun+Ness]+[A3sg]+[Pnon]+[Nom] yakınlık[Noun]+[A3sg]+[Pnon]+[Nom]
+bakımından bakım[Noun]+[A3sg]+SH[P3sg]+NDAn[Abl] bakım[Noun]+[A3sg]+Hn[P2sg]+NDAn[Abl] bakımından[Adv]
+beşincisi beşinci[Adj]-[Noun]+[A3sg]+SH[P3sg]+[Nom]
+, ,[Punc]
+Erendiz Erendiz[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom] Erendiz[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+Müşteri Müşteri[Noun]+[A3sg]+[Pnon]+[Nom] müşteri[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jüpon jüpon[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Kadınların kadın[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] Kadın[Noun]+[Prop]+lAr[A3pl]+[Pnon]+NHn[Gen] Kadın[Noun]+[Prop]+lAr[A3pl]+Hn[P2sg]+[Nom] kadın[Adj]-[Noun]+lAr[A3pl]+[Pnon]+NHn[Gen] kadın[Adj]-[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom] kadın[Noun]+lAr[A3pl]+Hn[P2sg]+[Nom]
+giysi giysi[Noun]+[A3sg]+[Pnon]+[Nom]
+altına alt[Noun]+[A3sg]+SH[P3sg]+NA[Dat] alt[Adj]-[Noun]+[A3sg]+SH[P3sg]+NA[Dat] alt[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] alt[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] altı[Noun]+[A3sg]+Hn[P2sg]+NA[Dat] altın[Noun]+[A3sg]+[Pnon]+YA[Dat] altın[Adj]-[Noun]+[A3sg]+[Pnon]+YA[Dat] altı[Adj]-[Noun]+[A3sg]+Hn[P2sg]+NA[Dat]
+giydikleri giy[Verb]+[Pos]-DHk[Adj+PastPart]+lArH[P3pl] giy[Verb]+[Pos]-DHk[Noun+PastPart]+[A3sg]+lArH[P3pl]+[Nom] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+[Pnon]+YH[Acc] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+SH[P3sg]+[Nom] giy[Verb]+[Pos]-DHk[Noun+PastPart]+lAr[A3pl]+SH[P3pl]+[Nom]
+etek etek[Noun]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+iç iç[Noun]+[A3sg]+[Pnon]+[Nom] iç[Verb]+[Pos]+[Imp]+[A2sg] iç[Adj]
+etek etek[Noun]+[A3sg]+[Pnon]+[Nom]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jüri jüri[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Seçiciler seç[Verb]+[Pos]-YHcH[Noun+Agt]+lAr[A3pl]+[Pnon]+[Nom] seçi[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+lAr[A3pl]+[Pnon]+[Nom] seçici[Adj]-[Noun]+lAr[A3pl]+[Pnon]+[Nom]
+kurulu kurul[Noun]+[A3sg]+SH[P3sg]+[Nom] kurul[Noun]+[A3sg]+[Pnon]+YH[Acc] kuru[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] kurulu[Adj] Kurul[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] kuru[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Yargıcılar yargıcı[Noun]+lAr[A3pl]+[Pnon]+[Nom] Yargı[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+lAr[A3pl]+[Pnon]+[Nom] yargı[Noun]+[A3sg]+[Pnon]+[Nom]-CH[Noun+Agt]+lAr[A3pl]+[Pnon]+[Nom]
+kurulu kurul[Noun]+[A3sg]+SH[P3sg]+[Nom] kurul[Noun]+[A3sg]+[Pnon]+YH[Acc] kuru[Adj]-[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With] kurulu[Adj] Kurul[Noun]+[Prop]+[A3sg]+SH[P3sg]+[Nom] kuru[Noun]+[A3sg]+[Pnon]+[Nom]-lH[Adj+With]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+wordSep wordSep[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+jüt jüt[Noun]+[A3sg]+[Pnon]+[Nom]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Ihlamurgillerden ıhlamurgiller[Noun]+[A3pl]+[Pnon]+DAn[Abl]
+, ,[Punc]
+Hindistan Hindistan[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+Bangladeş Bangladeş[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+yetişen yetiş[Verb]+[Pos]-YAn[Adj+PresPart] Yetişen[Noun]+[Prop]+[A3sg]+[Pnon]+[Nom]
+, ,[Punc]
+ip ip[Noun]+[A3sg]+[Pnon]+[Nom]
+ve ve[Conj]
+çuval çuval[Noun]+[A3sg]+[Pnon]+[Nom] çuval[Adj]
+yapımında yapım[Noun]+[A3sg]+SH[P3sg]+NDA[Loc] yapım[Noun]+[A3sg]+Hn[P2sg]+NDA[Loc]
+kullanılan kullan[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] kul[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+, ,[Punc]
+liflerinden lif[Noun]+lAr[A3pl]+SH[P3pl]+NDAn[Abl] lif[Noun]+[A3sg]+lArH[P3pl]+NDAn[Abl] lif[Noun]+lAr[A3pl]+SH[P3sg]+NDAn[Abl] lif[Noun]+lAr[A3pl]+Hn[P2sg]+NDAn[Abl]
+yararlanılan yarar[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] yararlan[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart]
+bir bir[Det] bir[Adj] bir[Noun]+[A3sg]+[Pnon]+[Nom] bir[Adv]
+bitki bitki[Noun]+[A3sg]+[Pnon]+[Nom]
+( ([Punc]
+Corchorus Corchorus[Unknown]
+capsularis capsularis[Unknown]
+) )[Punc]
+. .[Punc]
+</S> </S>+ESTag
+<S> <S>+BSTag
+meaning meaning[Unknown]
+</S> </S>+ESTag
+<S> <S>+BSTag
+Bu bu[Det] bu[Pron]+[Demons]+[A3sg]+[Pnon]+[Nom] bu[Adj]
+bitkinin bitki[Noun]+[A3sg]+[Pnon]+NHn[Gen] bitkin[Adj]-[Noun]+[A3sg]+[Pnon]+NHn[Gen] bitkin[Adj]-[Noun]+[A3sg]+Hn[P2sg]+[Nom] bitki[Noun]+[A3sg]+Hn[P2sg]+NHn[Gen]
+liflerinden lif[Noun]+lAr[A3pl]+SH[P3sg]+NDAn[Abl] lif[Noun]+[A3sg]+lArH[P3pl]+NDAn[Abl] lif[Noun]+lAr[A3pl]+SH[P3pl]+NDAn[Abl] lif[Noun]+lAr[A3pl]+Hn[P2sg]+NDAn[Abl]
+yapılan yap[Verb]-Hl[Verb+Pass]+[Pos]-YAn[Adj+PresPart] yapı[Noun]+[A3sg]+[Pnon]+[Nom]-lAn[Verb+Acquire]+[Pos]+[Imp]+[A2sg] yapılan[Verb]+[Pos]+[Imp]+[A2sg]
+dokuma doku[Verb]+[Pos]-mA[Noun+Inf2]+[A3sg]+[Pnon]+[Nom] doku[Verb]+mA[Neg]+[Imp]+[A2sg] dok[Noun]+[A3sg]+Hm[P1sg]+NA[Dat] dokuma[Adj] dokuma[Noun]+[A3sg]+[Pnon]+[Nom] doku[Noun]+[A3sg]+Hm[P1sg]+NA[Dat]
+. .[Punc]
+</S> </S>+ESTag
