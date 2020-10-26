@@ -5,7 +5,7 @@ gensim == 3.6.0
 
 # sentiment-embeddings/PMI_matrix.py: 14
 # sentiment-embeddings/preprocessing.py: 456,457
-nltk == 3.4
+nltk == 3.4.5
 
 # sentiment-embeddings/PMI_matrix.py: 13
 # sentiment-embeddings/lexical_interface.py: 14
