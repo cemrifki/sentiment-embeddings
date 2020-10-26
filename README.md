@@ -53,7 +53,7 @@ If everything works well, you can run the example usage given below.
       
       1. Change directory to the location of the source code
       2. Run the instructions in "Setup with virtual environment (Python 3)"
-      3. Run the runner.py file with chosen command parameters. Some examples are given below.
+      3. Run the runner.py file with chosen command parameters. Some examples are given below
 
 Examples:
 ```
