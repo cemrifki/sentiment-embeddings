@@ -65,7 +65,7 @@ python3 runner.py --command cross_validate --language english --embedding_type s
 ## Citation
 If you find this code useful, please cite the following in your work:
 ```
-@InProceedings{sent:19,
+@InProceedings{sent-emb:19,
   author = 	"Aydin, Cem Rifki
 		and Gungor, Tunga
 		and Erkan, Ali",
