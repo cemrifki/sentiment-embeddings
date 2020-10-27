@@ -11,11 +11,8 @@ from collections import Counter
 from math import log
 
 import numpy as np
-from nltk.corpus import stopwords
 
 import preprocessing
-
-stop_words = set(stopwords.words('english'))
 
 
 def get_pmi_dict(revs):
