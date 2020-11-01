@@ -558,8 +558,8 @@ class Preprocessing:
                 start_index = max(int(i - context_size / 2), 0)
                 end_index = min(int(i + context_size / 2), len(rev))
 
-                left_hand_side_els = {}
-                right_hand_side_els = {}
+                left_hand_side_els = set({})
+                right_hand_side_els = set({})
 
                 if i > 0:
                     left_hand_side_els = set(rev[start_index:i])
