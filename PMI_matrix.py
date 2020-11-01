@@ -15,7 +15,7 @@ import numpy as np
 import preprocessing
 
 
-def get_pmi_dict(revs):
+def get_pmi_dict(texts_tokenized):
     """
     This function builds PMI matrix.
 
@@ -24,7 +24,6 @@ def get_pmi_dict(revs):
     :return: PMI matrix of the corpus.
     :rtype: dict
     """
-    texts_tokenized = revs
 
     cx = Counter()
     cxy = Counter()
