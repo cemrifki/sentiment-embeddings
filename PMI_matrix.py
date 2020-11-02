@@ -19,7 +19,7 @@ def get_pmi_dict(texts_tokenized):
     """
     This function builds PMI matrix.
 
-    :param revs: Corpus reviews.
+    :param texts_tokenized: Corpus reviews that are previously tokenized.
     :type revs: list
     :return: PMI matrix of the corpus.
     :rtype: dict
