@@ -31,7 +31,7 @@ CONTEXT_WINDOW_SIZE = 5
 
 EMBEDDING_TYPE = "ensemble"
 
-"""int: Word embedding type index
+"""Word embedding type
 
 corpus_svd: SVD - U vector
 lexical_svd: Dictionary, SVD - U vector
