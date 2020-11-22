@@ -11,27 +11,17 @@ import os
 
 COMMAND = "cross_validate"
 
+# Dimension size of embeddings
 EMBEDDING_SIZE = 100
-"""int: The new dimension of generated embeddings.
 
-"""
-
+#Language can be either "turkish" or "english"
 LANG = "turkish"
-"""int: Language choice
-Options allowed are as follows.
-
-english
-turkish
-
-"""
 
 DATASET_PATH = os.path.join("input", "Sentiment_dataset_turk.csv")  # Sentiment_dataset_tr.csv; test_tr.csv
 
 CONTEXT_WINDOW_SIZE = 5
 
-EMBEDDING_TYPE = "ensemble"
-
-"""Word embedding type
+""" Word embedding type can be one of the following:
 
 corpus_svd: SVD - U vector
 lexical_svd: Dictionary, SVD - U vector
@@ -41,14 +31,14 @@ clustering: Clustering vector
 word2vec: word2vec
 
 """
+EMBEDDING_TYPE = "ensemble"
+
 
 # Number of cross-validation
 CV_NUMBER = 10
 
+# Concatenation of the maximum, average, and minimum delta-idf polarity scores with the average document vector.
 USE_3_REV_POL_SCORES = True
-"""bool: Concatenation of the maximum, average, and minimum delta-idf polarity scores with the average document vector.
-
-"""
 
 # The below variables are used only if the command "train_and_test_separately" is chosen.
 TRAINING_FILE_PATH = os.path.join("input", "Turkish_twitter_train.csv")
