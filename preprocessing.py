@@ -87,7 +87,7 @@ class Preprocessing:
         :rtype: str
         """
         # This is added to reduce the same characters appearing consecutively more than twice
-        # to the same two chars only.
+        # to the same three chars only.
         string = re.sub(r"(.)(\1)\1{2,}", r"\1\1\1", string)
         # Added, since mentions (e.g. @trump) do not contribute to sentiment.
         string = re.sub(r"@[a-zA-Z" + self.TURKISH_CHARS + "0-9()#,!?:=;\\-\\\'`./]+", r"", string)
