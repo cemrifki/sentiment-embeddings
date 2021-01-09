@@ -70,8 +70,8 @@ class Preprocessing:
     """
     TURKISH_CHARS = "ğüışöçĞÜİŞÖÇîÎûÛâÂ"
 
-    TURKISH_SUFFIX_IN_FULL_FORM = {"yon": "yorsun", "yom": "yorum", "cam": "cağım", "cem": "cağım",
-                                   "çam": "cağım", "caz": "cağız", "çaz": "cağız", "cez": "cağız"}
+    TURKISH_SUFFIX_IN_FULL_FORM = {"yon": "yorsun", "yom": "yorum", "cam": "cağım", "cem": "ceğim",
+                                   "çam": "cağım", "caz": "cağız", "çaz": "cağız", "cez": "ceğiz"}
     TURKISH_NEGATORS = {"değil", "yok"}
 
     def __init(self):
