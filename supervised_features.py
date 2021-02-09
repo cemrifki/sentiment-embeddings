@@ -237,6 +237,7 @@ class SupervisedFeatures:
 
         all_context_4_delta_idf_scores = {}
 
+        # A Pythonesque comprehension paradigm can also be used in lieu of the below for loop.
         for target_word, word_context_delta_idf_scores in context_delta_idf_scores.items():
             all_context_4_delta_idf_scores[target_word] = \
                 self.get_context_4_delta_idf_scores(target_word,
@@ -276,11 +277,7 @@ class SupervisedFeatures:
         :rtype: list
         """
 
-        rev_delta_idf_scores = []
-        for word in rev:
-
-            if word in delta_idf_scores:
-                rev_delta_idf_scores.append(delta_idf_scores[word])
+        rev_delta_idf_scores = [delta_idf_scores[word] for word in rev if word in delta_idf_scores]
         return rev_delta_idf_scores
 
     def get_review_3_polarity_scores(self, rev, delta_idf_scores):

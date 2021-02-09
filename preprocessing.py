@@ -287,7 +287,7 @@ class Preprocessing:
 
         return [self.replace_mwe(review, all_mwes) for review in reviews]
 
-    def suffix_expansion(self, word):
+    def expand_suffix(self, word):
         """
         A basic Turkish normalisation process. For example, the word "yapıyom" is normalised as "yapıyorum".
         In this method, several rules are specified to detect incorrectly typed suffixes specific to Turkish.
@@ -364,9 +364,8 @@ class Preprocessing:
             for word in rev:
                 word_cnt[word] += 1
 
-        revs_without_noise = []
-        for rev in revs:
-            revs_without_noise.append([word for word in rev if word_cnt[word] > noise_threshold])
+        revs_without_noise = [[word for word in rev if word_cnt[word] > noise_threshold] for rev in revs]
+
         return revs_without_noise
 
     def preprocess_before_parsing(self, reviews):
@@ -383,9 +382,7 @@ class Preprocessing:
         review_separator = "sepx"
         reviews = [self.turkish_tokenize(review) for review in reviews]
 
-        updated_reviews = []
-        for review in reviews:
-            updated_reviews.append([self.suffix_expansion(word) for word in review])
+        reviews = [[self.expand_suffix(word) for word in review] for review in reviews]
 
         reviews_with_sep = [review + [review_separator] for review in reviews]
         return reviews_with_sep
@@ -482,10 +479,7 @@ class Preprocessing:
         reviews = self.parse_and_disamb(reviews)
         reviews = self.preprocess_after_disamb(reviews)
         stopwords = self.get_turkish_stopwords()
-        reviews_upd = []
-        for review in reviews:
-            review_upd = [word for word in review if word not in stopwords]
-            reviews_upd.append(review_upd)
+        reviews_upd = [[word for word in review if word not in stopwords] for review in reviews]
         return reviews_upd
 
     def preprocess_lang(self, reviews):
