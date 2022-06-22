@@ -13,7 +13,7 @@ nltk == 3.5
 # sentiment-embeddings/supervised_features.py: 10
 # sentiment-embeddings/svm.py: 8
 # sentiment-embeddings/vec_operations.py: 6
-numpy == 1.16.0
+numpy == 1.22.0
 
 # sentiment-embeddings/preprocessing.py: 13
 # sentiment-embeddings/svm.py: 9
