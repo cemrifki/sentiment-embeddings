@@ -26,6 +26,6 @@ scikit-fuzzy == 0.4.2
 scikit_learn == 0.20.1
 
 # sentiment-embeddings/svd_U.py: 6
-scipy == 1.1.0
+scipy == 1.10.0
 
 git+https://github.com/emres/turkish-deasciifier.git
