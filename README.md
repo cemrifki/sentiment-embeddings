@@ -38,11 +38,11 @@ The following are the command-line arguments:
 - `--model_path`: set path to the model trained previously. Be careful in the sense that the same model parameters should be chosen for both the training and test sets
 
 #### Setup with virtual environment (Python 3):
--  python3 -m venv my_venv
--  source my_venv/bin/activate
+-  `python3 -m venv my_venv`
+-  `source my_venv/bin/activate`
 
 Install the requirements:
--  pip3 install -r requirements.txt
+-  `pip3 install -r requirements.txt`
 
 If everything works well, you can run the example usage given below.
 
@@ -76,4 +76,4 @@ If you find this code useful, please cite the following in your work:
 }
 ```
 ## Credits
-Codes were written by Cem Rıfkı Aydın
+The code was written by Cem Rıfkı Aydın
